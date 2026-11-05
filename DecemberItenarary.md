@@ -37,19 +37,65 @@ Putting the Great Wall and Ming Tombs on Monday avoids every closure and puts yo
 
 ### Day 3: Monday, Dec 21 — Great Wall & Ming Tombs (The Monday Solution)
 
-Mutianyu is now in the morning and the Ming Tombs in the afternoon (see the [review notes](#review-notes) for why).
+> **At a glance:** Mutianyu in the morning, lunch near the Wall, the Ming Tombs in the afternoon, and back at the hotel around 17:30–18:00.
+> About **180 km and 4 hours of driving** in total. Sunrise is **07:33** and sunset is **16:51**.
 
-- **07:00** Leave in your heated private van for **Mutianyu**, about 70 km and roughly 1.5 hours away. Leaving early gets you ahead of the traffic.
-- **08:30–09:00** At the visitor center, buy tickets and take the shuttle bus up to the lift area.
-- **09:00–11:30 Mutianyu Great Wall.** Ride the enclosed **cable car up to Tower 14**. Walk west along the wall to **Tower 6**: about 1 km with lots of steep steps, so allow 45–75 minutes with photo stops. Finish by riding the **Alpine Toboggan down from Tower 6**.
-  - The cable car (Tower 14) and the chairlift/toboggan (Tower 6) are run by **two different companies**, and their tickets are not interchangeable. Buy a **one-way cable car ticket up** and a **one-way toboggan ticket down**, not a round trip on either.
-  - The toboggan closes in rain, snow, or icy conditions. If it's closed, ride the chairlift down from Tower 6 instead.
-  - Check the toboggan's age and height rules for children before you go.
-- **11:45–13:00 Lunch:** farm-to-table food at a heated rustic courtyard restaurant near the base of the Wall, such as Xin Shuang Quan (confirm it's open in winter). Try the fresh mountain trout and the dumplings.
-- **13:00–14:00** Drive west to the **Ming Tombs**, about 50–60 km and roughly 1 hour.
-- **14:00–15:15 Dingling Tomb.** Descend about 27 meters underground into the marble vaults of the Underground Palace. On a winter Monday you'll have the chambers nearly to yourselves.
-- **15:30–16:15 The Sacred Way**, which is on the way back toward the city. Give your son a photo scavenger hunt among the 12 pairs of giant stone animals and 6 pairs of officials and generals, in the late-afternoon light.
-- **16:15** Relax in the warm van while your driver heads back to the hotel. Allow about 1–1.5 hours, depending on Monday evening traffic.
+#### Schedule
+
+| Time | Where | What to do |
+|---|---|---|
+| **07:00** | Hotel | Leave in the heated van. It's still dark until about 07:30, so ask the hotel for an early breakfast or a breakfast box. |
+| 07:00–08:30 | 🚐 Drive | About 73 km (~1.5 h) northeast to Mutianyu. |
+| 08:30–09:00 | Mutianyu visitor center | Buy tickets and use the restrooms. Walk through the shopping street to the shuttle bus, which takes about 10 minutes up to the lift area. |
+| 09:00–09:15 | 🚡 Cable car | Ride the enclosed **cable car up to Tower 14**. |
+| 09:15–10:30 | 🧱 On the Wall | Walk from **Tower 14 to Tower 6**: about 1 km, with some steep stairs. Allow 45–75 minutes with photo stops. |
+| 10:30–11:15 | 🛷 Toboggan | Ride the **toboggan down from Tower 6**, then take the shuttle bus back to the visitor center. |
+| 11:15–11:45 | Buffer | Spare time for queues, warming up, or the shopping street. |
+| 11:45–13:00 | 🍽️ Lunch | Eat at a heated farmhouse restaurant near the Wall, such as Xin Shuang Quan (confirm it's open in winter). Try the fresh mountain trout and the dumplings. |
+| 13:00–14:00 | 🚐 Drive | About 50–60 km (~1 h) west to the Ming Tombs. |
+| 14:00–15:15 | Dingling Tomb | Go about 27 m underground into the marble vaults of the Underground Palace. On a winter Monday you may have it nearly to yourselves. |
+| 15:15–15:30 | 🚐 Drive | About 7 km south to the Sacred Way. |
+| 15:30–16:20 | The Sacred Way | Give your son a photo scavenger hunt among the 12 pairs of stone animals and 6 pairs of officials and generals, in low golden light. If the driver can meet you at the far end, you only have to walk the avenue one way (about 1 km). |
+| 16:20–17:45 | 🚐 Drive | About 45 km (1–1.5 h) back to the hotel. Monday evening traffic builds after 17:00. |
+
+#### Do the winter hours work?
+
+Yes. Every stop has at least an hour of slack before its last entry, and all the outdoor sightseeing ends before sunset. The hours below are the winter hours (mid-November to mid-March) published by ticketing and travel sites. Ask the agency to confirm them for 2026.
+
+| Site | Winter hours | Last entry / last ticket | Our time there | Slack |
+|---|---|---|---|---|
+| Mutianyu cable car | 08:00–17:00 | Sales stop ~1 h before closing | 09:00 | ✅ Plenty |
+| Mutianyu chairlift & toboggan | 08:30–16:30 | Probably ~15:30 | ~10:30 | ✅ ~5 h |
+| Dingling (Ming Tombs) | 08:30–17:00 | 16:30 | 14:00–15:15 | ✅ 75 min |
+| Sacred Way | 08:30–17:00 | 16:30 | 15:30–16:20 | ✅ 60 min |
+| Daylight | Sunrise 07:33, sunset 16:51 | Usable light until ~17:20 | Outdoors 09:00–16:20 | ✅ Done before sunset |
+
+- **The swap was necessary, not just nicer.** The toboggan closes at 16:30 in winter, and ticket sales probably stop around 15:30. With the original afternoon plan (Mutianyu 13:30–16:30), you would have reached Tower 6 right around that cutoff.
+- **The trade-off is cold.** 09:00–10:30 on the Wall is the coldest part of the day, well below freezing and colder with wind chill. Dress for it, and use the van as a warm base between stops.
+
+#### Mutianyu lifts: what to buy
+
+- The **cable car** (Tower 14) and the **chairlift/toboggan** (Tower 6) are run by **two different companies**, and their tickets are not interchangeable.
+- Buy a **one-way cable car ticket up** and a **one-way toboggan ticket down**. Don't buy a round trip on either one.
+- The toboggan is a one-person sled on a metal track, with a hand lever to control the speed. Check the age and height rules for your son before you go.
+- Some ticket listings say riders aged 60 and over are not allowed on the toboggan. If that applies to anyone in your group, they can take the chairlift down from Tower 6.
+
+#### If plans change on the day
+
+| If… | Then… |
+|---|---|
+| The toboggan is closed (snow, ice, rain, or wind) | Take the chairlift down from Tower 6. It's the same company, and you can buy the ticket there. If that's closed too, it's roughly 30 minutes down the stairs. |
+| The cable car is closed (for example, annual maintenance) | Take the chairlift up to Tower 6, walk a shorter stretch, and come back to Tower 6 for the toboggan or chairlift down. |
+| Mutianyu is closed or the weather is bad | Go to **Badaling** (which has cable cars) or **Juyongguan** (no lift) instead. Both are near the Ming Tombs, so the afternoon stays the same. See [GreatWallSections.md](GreatWallSections.md). |
+| You're running late | Make sure you reach **Dingling before its 16:30 last entry**, and shorten the Sacred Way. |
+| Someone is too cold | Head back to the warm van. Dingling's underground chambers are also out of the wind. |
+
+#### What to bring
+
+- Boots with good grip, plus strap-on ice cleats if it has snowed
+- Hats, gloves, and neck warmers, plus layers you can take off while climbing
+- Hand warmers, water, snacks, and a thermos of something hot
+- Passports, since tickets are usually issued in your real name
 
 ### Day 4: Tuesday, Dec 22 — Flexible Morning & Departure
 
@@ -80,8 +126,10 @@ Reviewed in November 2026. **The overall plan makes sense.** Its key idea, putti
 | Day 2: Summer Palace ice rink | The Kunming Lake rink opens only when the lake ice is thick enough, typically in late December (Dec 31 in 2022). It is likely **not open on Dec 20**. | The rink is now a bonus, with an indoor-rink Plan B and a pre-trip check. |
 | Day 2: Summer Palace order | The plan went "straight to the ice rink", but the inner sites close around 16:00 in winter. Skipping them for a rink that may be closed would waste the visit. | Longevity Hill and the Tower of Buddhist Incense now come first. |
 | Day 2: cross-town drive | The Temple of Heaven (southeast) and the Summer Palace (northwest) are about 20 km apart. The 30 minutes allowed after lunch was tight. | The drive now happens before lunch, and lunch is near the Summer Palace. |
-| Day 3: order of the day | Mutianyu was 13:30–16:30, which left no buffer before the lifts stop (around 16:30) and sunset (around 16:50). A long lunch could have cost you the toboggan. | Mutianyu is now in the morning. The Ming Tombs, which are mostly underground and less affected by fading light, are in the afternoon, with the Sacred Way on the drive home. |
+| Day 3: order of the day | Mutianyu was 13:30–16:30. In winter the toboggan closes at 16:30, ticket sales probably stop around 15:30, and sunset is 16:51, so there was no buffer. A long lunch could have cost you the toboggan. | Mutianyu is now in the morning. The Ming Tombs, which are mostly underground and less affected by fading light, are in the afternoon, with the Sacred Way on the drive home. |
 | Day 3: Mutianyu tickets | The cable car and the toboggan are run by different companies, so a round-trip ticket on either one doesn't give you "cable car up, toboggan down". | The itinerary now spells out one-way tickets, the toboggan's weather rule, and the chairlift fallback. |
+| Day 3: winter timing check | Checked each stop against its winter hours (cable car 08:00–17:00, toboggan 08:30–16:30, Ming Tombs 08:30–17:00 with last entry 16:30) and against daylight on Dec 21 (sunrise 07:33, sunset 16:51). | All stops fit with at least an hour to spare. I added a 30-minute buffer after Mutianyu and a rule for running late: protect Dingling's 16:30 last entry. |
+| Day 3: layout | The day was one long list, which made the timing hard to check. | Reformatted as a schedule table, a winter-hours check, a "what to buy" note for the lifts, a contingency table, and a packing list. |
 | Day 1: cricket fighting | Cricket fighting is a late-summer and autumn pastime, so a demonstration is unlikely in late December. | Replaced with a hands-on courtyard activity. |
 | Day 1: "fast-track security" | Tiananmen and Forbidden City security is the same line for everyone. | Changed to "arrive early". |
 | Day 1: Clock Gallery | The Hall of Clocks and Watches needs its own add-on ticket. | Added to the booking checklist. |
@@ -91,10 +139,11 @@ Reviewed in November 2026. **The overall plan makes sense.** Its key idea, putti
 **Still to confirm closer to the date**, since these details change from year to year:
 
 - The opening date of the Summer Palace ice rink for 2026–27.
-- The Mutianyu cable car maintenance day and its winter lift hours.
+- The Mutianyu cable car maintenance day, and the 2026 winter lift hours (listed as cable car 08:00–17:00 and toboggan 08:30–16:30).
+- The toboggan's age and height rules for children.
 - Forbidden City winter hours. Sources disagree on whether it closes at 15:30 or 16:30, but the morning visit works either way.
 - The current Tiananmen Square reservation rules for foreign passport holders.
-- Winter hours and last entry for the Ming Tombs (Dingling).
+- Ming Tombs winter hours (listed as 08:30–17:00, last entry 16:30). One source gives longer hours for Dingling, but the plan works either way.
 
 ### Sources
 
@@ -102,4 +151,7 @@ Reviewed in November 2026. **The overall plan makes sense.** Its key idea, putti
 - Temple of Heaven Monday closures: [Beijing government – Temple of Heaven](https://english.beijing.gov.cn/specials/parktours/guidevisitors/templeofheaven/); [Travel China Guide – Hall of Prayer for Good Harvests](https://www.travelchinaguide.com/attraction/beijing/temple-of-heaven/hall-of-prayer-for-good-harvests.htm)
 - Mutianyu lift maintenance: [Mutianyu official notice](https://en.mutianyugreatwall.com/article/4PWR2xDOBzt)
 - Mutianyu lift operators and toboggan rules: [Wander in China – Mutianyu](https://www.wanderinchina.com/destinations/beijing/great-wall/mutianyu-great-wall/); [China Discovery – Mutianyu toboggan](https://chinadiscovery.com/beijing-tours/beijing-transportation/mutianyu-great-wall-toboggan.html)
+- Mutianyu winter lift hours: [Tour Beijing – Mutianyu tickets & opening hours](https://tour-beijing.com/mutianyu_tickets); [Travel China Guide – Toboggan, cable car or chairlift?](https://www.travelchinaguide.com/mutianyu-great-wall-toboggan-cable-car.htm); [Visit Beijing – Mutianyu](https://r.visitbeijing.com.cn/attraction/7)
+- Ming Tombs winter hours: [China Xian Tour – Ming Tombs](https://www.chinaxiantour.com/beijing-attractions/ming-tombs); [Travel China – Ming Tombs](https://www.chinatravel.com/beijing/attraction/ming-tombs)
+- Sunrise and sunset for Dec 21 were calculated for central Beijing, Mutianyu, and the Ming Tombs; they match to within 2 minutes.
 - Forbidden City booking rules: [Beijing government – Palace Museum visiting guidelines](https://english.beijing.gov.cn/latest/news/202306/t20230629_3150036.html)
