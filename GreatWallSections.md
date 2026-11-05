@@ -44,7 +44,7 @@ Almost every section you can visit near Beijing was built or rebuilt in brick an
 - **Lift operators:** The cable car and the chairlift/toboggan are run by **different companies**, and their tickets aren't interchangeable. The classic family combination is a one-way cable car up, a walk from Tower 14 to Tower 6, and a one-way toboggan down. The toboggan closes in rain, snow, or ice; if it does, take the chairlift down instead.
 - **Crowds:** Busy in summer and on holidays, but far quieter than Badaling. On a winter weekday it can be nearly empty.
 - **Why it suits families:** The lifts remove most of the climbing. The Tower 14 to Tower 6 walk is manageable for a 10-year-old. The toboggan is a highlight for kids, and there are good restaurants at the base.
-- **Watch out for:** The cable car's annual maintenance day in December (Dec 13 in 2025). Lifts stop around 16:30 in winter. Steps can be icy.
+- **Watch out for:** The cable car's annual maintenance day in December (Dec 13 in 2025). In winter (mid-November to mid-March) the cable car runs about 08:00–17:00 and the chairlift/toboggan about 08:30–16:30, so go in the morning. Steps can be icy.
 
 ### Badaling (八达岭)
 
