@@ -1,7 +1,7 @@
 # Beijing Winter Family Itinerary — December 19–22, 2026
 
 > Base: **Grand Hyatt Beijing** (Oriental Plaza, Wangfujing). Reviewed November 2026.
-> The [review notes](#review-notes) at the bottom list what changed and what still needs confirming. To compare Great Wall sections, see [GreatWallSections.md](GreatWallSections.md).
+> The [review notes](#review-notes) at the bottom list what changed and what still needs confirming. To compare Great Wall sections, see [GreatWallSections.md](GreatWallSections.md). For tour operators and rough prices, see [TourOperators.md](TourOperators.md).
 
 These dates run from Saturday, December 19 to Tuesday, December 22, 2026, so the plan is built around **Monday, December 21**. In Beijing, almost all major museums and imperial indoor compounds close on Mondays for maintenance. Outdoor monuments and suburban heritage sites stay open.
 
@@ -192,9 +192,9 @@ Every stop has at least an hour to spare before its last entry, and all outdoor 
 #### Tickets & tips
 
 - The **cable car** (Tower 14) and the **chairlift/toboggan** (Tower 6) are run by **two different companies**, and their tickets aren't interchangeable.
-- Buy a **one-way cable car ticket up** and a **one-way toboggan ticket down**. Don't buy a round trip on either.
+- Buy a **one-way cable car ticket up** and a **one-way toboggan ticket down**. Don't buy a round trip on either. Some 2026 price lists show these as one combined "cable car up + toboggan down" ticket for about ¥140.
 - The toboggan is a one-person sled on a metal track, with a hand lever to control the speed. Check the age and height rules for your son before you go.
-- Some ticket listings say riders aged 60 and over aren't allowed on the toboggan. If that applies to anyone in your group, they can take the chairlift down from Tower 6 instead.
+- Since June 2026, riders aged over 60 may not be allowed on the toboggan, and staff may check ID. If that applies to anyone in your group, they can take the chairlift down from Tower 6 instead.
 
 #### If plans change
 
