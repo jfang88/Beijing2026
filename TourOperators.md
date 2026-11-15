@@ -1,15 +1,39 @@
 # Tour Operators & Rough Prices
 
-These are options for running the [December itinerary](DecemberItenarary.md) with a private car and guide, for **2 adults and 1 child (age 10)**. The Grand Hyatt's quote of **about RMB 4,000 per day for all three of you** is the benchmark.
+These are options for running the [December itinerary](DecemberItenarary.md) with a private car and guide, for **2 adults and 1 child (age 10)**. The Grand Hyatt's quotes of **RMB 4,000 per day for all three of you** are the benchmark (details below).
 
 > **Rough prices only.** They come from operators' own sites and booking platforms listing 2025–26 rates. Many listings don't say exactly what's included, so get a written quote for your exact dates. US-dollar prices are converted at about **RMB 6.7 per USD**, the rate in September 2026. Every figure is a **total for all three of you, per day**, unless marked otherwise.
 >
 > Operators are listed because they appear often in reviews and on booking sites. This list is not an endorsement, and licenses haven't been checked.
 
+## The Grand Hyatt's quotes (November 2026)
+
+The hotel has quoted two private day tours. Each costs **RMB 4,000 for all three of you**, and lunch is at your own expense on both.
+
+| Hotel tour | What's included | Not included | Rough all-in cost for 3 (RMB) | Verdict |
+|---|---|---|---|---|
+| **Great Wall: Mutianyu + Ming Tombs** | Car, driver, guide, and entry tickets (Mutianyu, Dingling, Sacred Way: worth about ¥330–350 for 3) | Cable car up and toboggan down (~¥140 each, ~¥420 for 3); lunch (~¥300–500); possibly the Mutianyu shuttle bus (¥15 each) | **~4,700–4,900** | **OK, but at the top of the market.** That's about 1.5× the cheaper all-inclusive operators (~RMB 2,800 including lifts). It's worth it if you value booking through the hotel and having one place to complain. |
+| **City: Forbidden City, Tiananmen, Temple of Heaven, Summer Palace in one day** | Car, driver, guide; leaves at 09:00. Ask whether tickets are included (worth about ¥380 for 3, including the Clock Gallery). | Lunch; tickets unless confirmed | **~4,300–4,800** | **Pricey and rushed.** Similar private tours run about RMB 3,400–3,600, usually with tickets. Four big sites in one day with a 10-year-old leaves no time for the Clock Gallery, the Jingshan view, or the ice rink. It can't run on a Monday. |
+
+**Before booking the Great Wall tour, confirm:**
+
+1. **A 07:00 pickup, not 09:00.** Leaving at 09:00 puts you at the Wall around 10:30, and at the Ming Tombs too late to be comfortable before the toboggan's likely ~15:30 last ticket and Dingling's 16:30 last entry.
+2. Whether the **Mutianyu shuttle bus** is included.
+3. **No overtime charge** for a day of about 07:00–17:45 and 180 km.
+4. A **licensed English-speaking guide**, **no shopping stops**, and a **heated 7-seater**.
+5. That they'll buy the cable car up and toboggan down tickets for you (you pay the ~¥420), and check that **Dec 20** isn't the cable car's annual maintenance day.
+
+**Suggested way to use the hotel:**
+
+- **Sun (Great Wall):** Book the hotel's tour, with the 07:00 start.
+- **Sat (Forbidden City):** Book a guide only. It's a walk from the hotel, for about RMB 2,000 all in.
+- **Tue (Temple of Heaven + Summer Palace):** Ask the hotel for a price on just these two, and compare it with an outside operator (about RMB 2,400–3,600).
+- If you'd rather use the hotel's one-day city tour, do it on **Saturday or Tuesday**, and use the freed-up day for rest, the National Museum, or the ice rink.
+
 ## The short answer
 
-- **Day 2 (Sun): Great Wall + Ming Tombs.** RMB 4,000 is fair if it includes tickets and lunch. All-inclusive private tours start at about RMB 2,400, and most cost RMB 2,400–4,800. A car and guide you arrange yourself works out at about RMB 3,300–4,000 once tickets, lunch, tips, and overtime are added.
-- **Days 1 and 2 (city days):** RMB 4,000 is on the high side. Day 1 is mostly on foot and barely needs a car, so a guide alone, plus a couple of taxi rides, covers it for about RMB 2,000 in total.
+- **Day 2 (Sun): Great Wall + Ming Tombs.** The hotel's RMB 4,000 includes entry tickets but not lifts or lunch, so it comes to about RMB 4,800 all in. That's acceptable but at the top of the market. All-inclusive private tours start at about RMB 2,400, and most cost RMB 2,400–4,800. A car and guide you arrange yourself works out at about RMB 3,300–4,000 once tickets, lunch, tips, and overtime are added.
+- **Days 1 and 4 (city days):** RMB 4,000 is on the high side. Day 1 is mostly on foot and barely needs a car, so a guide alone, plus a couple of taxi rides, covers it for about RMB 2,000 in total.
 - **Day 3 (Mon):** Everything is close to the hotel, so you can skip the tour. Use taxis or a van for short hops, or book a guide only.
 - **Day 0 (Fri) and Day 5 (Wed):** Book airport transfers only. For KE2052 that's a pickup at 08:00 to PEK Terminal 2.
 - **Ask the hotel what its RMB 4,000 includes:** tickets, lunch, tolls and parking, and how many hours and kilometers. Then compare quotes like for like.
@@ -20,7 +44,7 @@ All prices are rough totals in RMB for 3 people, per day.
 
 | Option | What's usually included | Day 1: city (mostly on foot) | Day 4 (Tue): Temple of Heaven + Summer Palace | Day 2 (Sun): Mutianyu + Ming Tombs |
 |---|---|---|---|---|
-| **Grand Hyatt** | Ask: probably car, driver and guide | ~4,000 | ~4,000 | ~4,000 |
+| **Grand Hyatt** (quoted) | Car, driver, guide; Great Wall tour includes entry tickets; lunch extra on both | ~4,000 (one-day city tour: Forbidden City, Tiananmen, Temple of Heaven, Summer Palace) | (covered by the same one-day tour) | 4,000 + lifts ~420 + lunch ≈ **4,800** |
 | **All-inclusive private tour** (e.g. Tour Beijing) | Car, driver, guide, entry tickets, lunch | ~2,400–3,600 | ~2,400–3,600 | **~2,400** |
 | **Booking platforms** (Viator, Trip.com, GetYourGuide, Klook) | Varies; check each listing | ~3,400+ | ~3,400+ | ~2,400–4,800 |
 | **DIY: car + driver + guide**, then pay tickets, lunch and tips yourself | Car, driver and guide only | ~1,900–2,100 (guide and taxis, no car) | ~2,100–2,900 | ~3,300–4,000 |
