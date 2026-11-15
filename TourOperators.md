@@ -8,7 +8,7 @@ These are options for running the [December itinerary](DecemberItenarary.md) wit
 
 ## The short answer
 
-- **Day 4 (Tue): Great Wall + Ming Tombs.** RMB 4,000 is fair if it includes tickets and lunch. All-inclusive private tours start at about RMB 2,400, and most cost RMB 2,400–4,800. A car and guide you arrange yourself works out at about RMB 3,300–4,000 once tickets, lunch, tips, and overtime are added.
+- **Day 2 (Sun): Great Wall + Ming Tombs.** RMB 4,000 is fair if it includes tickets and lunch. All-inclusive private tours start at about RMB 2,400, and most cost RMB 2,400–4,800. A car and guide you arrange yourself works out at about RMB 3,300–4,000 once tickets, lunch, tips, and overtime are added.
 - **Days 1 and 2 (city days):** RMB 4,000 is on the high side. Day 1 is mostly on foot and barely needs a car, so a guide alone, plus a couple of taxi rides, covers it for about RMB 2,000 in total.
 - **Day 3 (Mon):** Everything is close to the hotel, so you can skip the tour. Use taxis or a van for short hops, or book a guide only.
 - **Day 0 (Fri) and Day 5 (Wed):** Book airport transfers only. For KE2052 that's a pickup at 08:00 to PEK Terminal 2.
@@ -18,7 +18,7 @@ These are options for running the [December itinerary](DecemberItenarary.md) wit
 
 All prices are rough totals in RMB for 3 people, per day.
 
-| Option | What's usually included | Day 1: city (mostly on foot) | Day 2: Temple of Heaven + Summer Palace | Day 4 (Tue): Mutianyu + Ming Tombs |
+| Option | What's usually included | Day 1: city (mostly on foot) | Day 4 (Tue): Temple of Heaven + Summer Palace | Day 2 (Sun): Mutianyu + Ming Tombs |
 |---|---|---|---|---|
 | **Grand Hyatt** | Ask: probably car, driver and guide | ~4,000 | ~4,000 | ~4,000 |
 | **All-inclusive private tour** (e.g. Tour Beijing) | Car, driver, guide, entry tickets, lunch | ~2,400–3,600 | ~2,400–3,600 | **~2,400** |
@@ -55,14 +55,14 @@ How the DIY estimates were built:
 |---|---|---|---|
 | 1 | Forbidden City | ¥40 | ¥120 |
 | 1 | Hall of Clocks and Watches (add-on) | ¥10 | ¥30 |
-| 2 | Temple of Heaven combined ticket | ¥28 | ¥84 |
-| 2 | Summer Palace combined ticket | ¥50 | ¥150 |
-| 3 | Mutianyu entry | ¥40 | ¥120 |
-| 3 | Mutianyu shuttle bus (round trip) | ¥15 | ¥45 |
-| 3 | Cable car up + toboggan down | ¥140 | ¥420 |
-| 3 | Dingling | ¥40 | ¥120 |
-| 3 | Sacred Way | ¥15–20 | ¥45–60 |
-| 4 | National Museum of China | Free (book ahead) | — |
+| 4 | Temple of Heaven combined ticket | ¥28 | ¥84 |
+| 4 | Summer Palace combined ticket | ¥50 | ¥150 |
+| 2 | Mutianyu entry | ¥40 | ¥120 |
+| 2 | Mutianyu shuttle bus (round trip) | ¥15 | ¥45 |
+| 2 | Cable car up + toboggan down | ¥140 | ¥420 |
+| 2 | Dingling | ¥40 | ¥120 |
+| 2 | Sacred Way | ¥15–20 | ¥45–60 |
+| Optional | National Museum of China | Free (book ahead) | — |
 | | **Total, all days** | | **≈ ¥1,150** |
 
 - Child discounts vary by site; some go by height, others by age. Budget at the adult price and treat any discount as a bonus.
@@ -73,7 +73,7 @@ How the DIY estimates were built:
 ## Questions to ask every operator, including the hotel
 
 1. **What exactly is included?** Entry tickets (including Mutianyu's cable car, toboggan and shuttle, and the Clock Gallery), lunch, tolls and parking, and water.
-2. **How many hours and kilometers are included?** The Great Wall day (Tue) runs about 07:00–17:45 and 180 km.
+2. **How many hours and kilometers are included?** The Great Wall day (Sun) runs about 07:00–17:45 and 180 km.
 3. **Is it a licensed English-speaking guide,** and can you keep the same guide for every day?
 4. **Will they put "no shopping stops" in writing?** That means no detours to jade, silk or tea shops.
 5. **What vehicle?** Ask for a heated 7-seater such as a Buick GL8, and a booster seat if you want one for your son.
@@ -86,12 +86,12 @@ How the DIY estimates were built:
 | Day | Suggestion | Rough cost for 3 (RMB) |
 |---|---|---|
 | 1 | Guide only. Walk to the Forbidden City, then take taxis to lunch and Beihai Park. | ~2,000 including tickets and lunch |
-| 2 | All-inclusive private tour, or car + guide | ~2,400–3,600 |
-| 4 (Tue) | All-inclusive private tour, or the hotel if its RMB 4,000 includes tickets and lunch | ~2,400–4,000 |
+| 2 (Sun) | All-inclusive private tour, or the hotel if its RMB 4,000 includes tickets and lunch | ~2,400–4,000 |
 | 3 (Mon) | No tour needed: taxis or a van for short hops, the Lama Temple, a rickshaw and dumpling lunch, and acrobatics | ~1,500–2,500 including the rickshaw, lunch, and show tickets |
+| 4 (Tue) | Temple of Heaven + Summer Palace: all-inclusive private tour, or car + guide | ~2,400–3,600 |
 | 0 and 5 | Airport transfers only (Fri evening in, Wed 08:00 out) | Ask for transfer-only prices |
 
-That comes to roughly **RMB 6,800–9,600 for Days 1–3**, compared with about **RMB 12,000** for three days with the hotel. The hotel is simpler, and if anything goes wrong you deal with one company you already know.
+That comes to roughly **RMB 8,300–12,100 for Days 1–4**, compared with about **RMB 16,000** for four days with the hotel. The hotel is simpler, and if anything goes wrong you deal with one company you already know.
 
 ## Sources
 
