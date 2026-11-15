@@ -1,18 +1,20 @@
-# Beijing Winter Family Itinerary — December 19–22, 2026
+# Beijing Winter Family Itinerary — December 18–23, 2026
 
 > Base: **Grand Hyatt Beijing** (Oriental Plaza, Wangfujing). Reviewed November 2026.
 > The [review notes](#review-notes) at the bottom list what changed and what still needs confirming. To compare Great Wall sections, see [GreatWallSections.md](GreatWallSections.md). For tour operators and rough prices, see [TourOperators.md](TourOperators.md).
 
-These dates run from Saturday, December 19 to Tuesday, December 22, 2026, so the plan is built around **Monday, December 21**. In Beijing, almost all major museums and imperial indoor compounds close on Mondays for maintenance. Outdoor monuments and suburban heritage sites stay open.
+You fly in on the evening of **Friday, December 18** and out on **Wednesday, December 23** (Korean Air KE2052 at about 11:45). That gives four full days, Saturday to Tuesday, and the plan is built around **Monday, December 21**. In Beijing, almost all major museums and imperial indoor compounds close on Mondays for maintenance. Outdoor monuments and suburban heritage sites stay open.
 
 ## Trip at a glance
 
 | Day | Date | Theme | Main stops | Driving |
 |---|---|---|---|---|
+| 0 | Fri, Dec 18 | Arrival | Evening flight in · hotel check-in | Airport transfer |
 | 1 | Sat, Dec 19 | The Imperial Heart | Forbidden City · Jingshan Park · Houhai hutongs | ~15 km in short hops; the morning is on foot |
 | 2 | Sun, Dec 20 | Imperial Parks & Lake Ice | Temple of Heaven · Summer Palace | ~45 km, about 2 h |
 | 3 | Mon, Dec 21 | Great Wall & Ming Tombs | Mutianyu · Dingling · Sacred Way | ~180 km, about 4 h |
-| 4 | Tue, Dec 22 | Flexible Morning & Departure | Wangfujing · National Museum (optional) · airport | 30–50 km to the airport |
+| 4 | Tue, Dec 22 | Museums, Lakes & Acrobats | National Museum · Beihai Park · acrobatics show (optional) | ~10–20 km in short hops |
+| 5 | Wed, Dec 23 | Departure | KE2052, PEK Terminal 2, ~11:45 | ~28 km to the airport |
 
 ## What is open vs. closed on Monday
 
@@ -43,8 +45,10 @@ The hotel is in Oriental Plaza at 1 East Chang'an Avenue, at the south end of Wa
 | Summer Palace | 2 | ~20 km | Van | 45–60 min |
 | Ming Tombs (Dingling) | 3 | ~55 km | Van | 1–1.25 h |
 | Mutianyu Great Wall | 3 | ~75 km | Van | ~1.5 h |
-| Capital Airport (PEK) | 4 | ~28 km | Van | 35–50 min |
-| Daxing Airport (PKX) | 4 | ~50 km | Van | 60–75 min |
+| Beihai Park | 4 | ~4 km | Van or taxi | ~15 min |
+| Chaoyang Theatre (acrobatics) | 4 | ~6 km | Van or taxi | 20–30 min |
+| Capital Airport (PEK), Terminal 2 for KE2052 | 0, 5 | ~28 km | Van | 35–50 min |
+| Daxing Airport (PKX) | 0 (if you land there) | ~50 km | Van | 60–75 min |
 
 - Stopping is restricted along Chang'an Avenue around Tiananmen, so on Day 1 walking or taking the metro is usually as quick as the van.
 - Distances are road estimates. Times assume normal traffic; weekday rush hours are roughly 07:00–09:00 and 17:00–19:00.
@@ -58,7 +62,40 @@ The hotel is in Oriental Plaza at 1 East Chang'an Avenue, at the south end of Wa
 - **Lip balm and moisturizer,** because Beijing's winter air is very dry.
 - **A phone power bank,** because cold drains batteries fast.
 
-## The 4-Day Winter Family Itinerary
+## Day-by-Day Itinerary
+
+### Day 0: Friday, Dec 18 — Arrival
+
+> **At a glance:** You fly in during the evening, transfer to the hotel, and get an early night. Day 1 starts at 07:45.
+> It's already dark by the time you land (sunset is **16:52**).
+
+#### Schedule
+
+| Time | Where | What to do |
+|---|---|---|
+| Evening | ✈️ Arrive in Beijing | Allow 45–90 minutes for immigration, bags, and customs. Your driver meets you in arrivals. |
+| +35–50 min (PEK) or +60–75 min (PKX) | 🚐 Transfer | Drive to the Grand Hyatt. |
+| Late evening | 🏨 Grand Hyatt | Check in. If you're hungry, have a light dinner in Oriental Plaza or on Wangfujing. Then get an early night. |
+
+#### Timing check
+
+| Item | Typical rule | Notes |
+|---|---|---|
+| Immigration and bags | 45–90 min | Longer if several international flights land together |
+| Airport to hotel | PEK 35–50 min; PKX 60–75 min | Evening traffic eases after about 19:00 |
+| Wangfujing and the malls | Most malls close around 22:00 | Fine for a quick dinner on arrival |
+
+#### Tickets & tips
+
+- **Book the airport pickup** and give the driver your flight number so they can track any delay.
+- **Before you fly,** set up Alipay or WeChat Pay with an international card, get a China eSIM or roaming plan, and download a translation app.
+
+#### If plans change
+
+| If… | Then… |
+|---|---|
+| The flight is late | Your driver tracks the flight. Skip dinner out and order room service. |
+| You arrive very late | Push Day 1's start to 08:00. The Forbidden City opens at 08:30, so you still won't lose much. |
 
 ### Day 1: Saturday, Dec 19 — The Imperial Heart
 
@@ -206,53 +243,96 @@ Every stop has at least an hour to spare before its last entry, and all outdoor 
 | You're running late | Make sure you reach **Dingling before its 16:30 last entry**, and shorten the Sacred Way. |
 | Someone is too cold | Head back to the warm van. Dingling's underground chambers are also out of the wind. |
 
-### Day 4: Tuesday, Dec 22 — Flexible Morning & Departure
+### Day 4: Tuesday, Dec 22 — Museums, Lakes & Acrobats (Flexible Day)
 
-> **At a glance:** An easy morning on foot around the hotel, then the airport. Museums reopen today.
-> Sunrise is **07:33** and sunset is **16:53**.
+> **At a glance:** Museums reopen today, so this is a slower day close to the hotel. It also leaves room for anything you missed earlier in the trip.
+> About **10–20 km of driving** in short hops. Sunrise is **07:33** and sunset is **16:53**.
 
 #### Schedule
 
 | Time | Where | What to do |
 |---|---|---|
-| Morning | 🛍️ Wangfujing | Right outside the hotel. Pick up winter snacks such as candied hawthorn (tanghulu), shop for souvenirs, or browse the warm indoor malls (the hotel sits in Oriental Plaza). |
-| 09:00–11:00 *(optional)* | 🏛️ National Museum of China | A 15–20 minute walk west along Chang'an Avenue. Entry is free, but you must book ahead. |
-| Midday | 🍽️ Lunch | Near the hotel. |
-| **Leave for the airport** | 🚐 Drive | **PEK:** ~28 km, 35–50 min, so leave about **3¾ h** before an international flight. **PKX:** ~50 km, 60–75 min, so leave about **4¼ h** before. |
+| **08:45** | Grand Hyatt | Walk west along Chang'an Avenue (15–20 min). |
+| 09:00–11:15 | 🏛️ National Museum of China | Head for the Ancient China galleries: bronzes, jade, and porcelain spanning 5,000 years. Entry is free, but you must book ahead. |
+| 11:15–12:30 | 🛍️ Wangfujing + lunch | Walk back along Wangfujing for winter snacks such as candied hawthorn (tanghulu), then have lunch near the hotel. |
+| 12:30–12:45 | 🚐 Drive | About 4 km to Beihai Park (15 min). |
+| 13:00–15:30 | 🌳 Beihai Park | Climb Jade Flower Island to the **White Dagoba** for views back over the Forbidden City and Jingshan. If the lake is frozen and the rink is open, try skating or ice bikes. |
+| 15:30–16:30 | ⛸️ Shichahai (if open), or back to the hotel | Shichahai's lakes start just outside Beihai's north gate. If the ice isn't open, head back to rest. |
+| ~17:30 or 19:00 *(optional)* | 🎪 Chinese acrobatics | A one-hour show at the **Chaoyang Theatre**, about 6 km away (20–30 min by van or taxi). It's a big hit with kids. |
 
 #### Winter hours check
 
 | Site | Winter hours | Last entry | Our time there | Slack |
 |---|---|---|---|---|
-| National Museum of China | 09:00–17:00 (closed Mon) | 16:00 | 09:00–11:00 | ✅ Plenty |
-| Wangfujing malls | Most open around 10:00 | — | Morning | ✅ Walk the street first if you're out early |
-| Daylight | Sunrise 07:33, sunset 16:53 | — | — | ✅ |
+| National Museum of China | 09:00–17:00 (closed Mon) | 16:00 | 09:00–11:15 | ✅ Plenty |
+| Beihai Park | 06:30–20:00 | 19:30 | 13:00–15:30 | ✅ Plenty |
+| Beihai inner courtyards (White Dagoba area) | 08:30–17:00 | 16:30 | 13:00–15:30 | ✅ 60 min |
+| Natural ice rinks (Beihai, Shichahai) | Open only once the lakes freeze | — | 15:30–16:30 | ⚠️ May not be open yet |
+| Chaoyang Theatre | Shows in the late afternoon and evening; times vary | — | Evening | ✅ Check times when booking |
+| Daylight | Sunrise 07:33, sunset 16:53 | — | Outdoors until ~16:30 | ✅ Done before sunset |
 
 #### Tickets & tips
 
-- **National Museum of China:** Entry is free, but you must book in advance. Slots open up to 7 days ahead, and walk-ins aren't accepted. Bring the passport you booked with, and arrive within your time slot.
-- **Confirm your airport.** Capital (PEK) is northeast of the city; Daxing (PKX) is farther out to the south.
-- Pack the night before, and tell the hotel your departure time.
+- **National Museum of China:** Entry is free, but you must book in advance. Slots open up to 7 days ahead (from about Dec 15), and walk-ins aren't accepted. Bring the passport you booked with, and arrive within your time slot.
+- **Acrobatics:** Box-office prices run from about ¥180 to ¥880 per seat depending on the section. Booking sites list seats at about US$36–43. Book a few days ahead and confirm the show time.
+- **Pack tonight** for tomorrow's flight.
 
 #### If plans change
 
 | If… | Then… |
 |---|---|
-| Your flight is in the morning | Skip the museum, and leave using the timing in the airport row above. |
-| Your flight is late | Add the museum and a relaxed lunch, or go back to something you missed, such as the ice rink if it opened after Sunday. |
+| Forbidden City tickets for Dec 19 and Dec 20 both sold out | Do the Forbidden City this morning instead of the museum. Tickets for Dec 22 go on sale **Dec 15 at 20:00**. |
+| The Kunming Lake rink opened after Sunday | Swap Beihai for a return to the Summer Palace rink (45–60 min drive). |
+| Everyone is tired after the Great Wall day | Drop Beihai and relax at the hotel or in the Oriental Plaza malls. Keep the acrobatics show. |
+
+### Day 5: Wednesday, Dec 23 — Departure (KE2052)
+
+> **At a glance:** **Korean Air KE2052** leaves **Beijing Capital (PEK), Terminal 2, at about 11:45** and lands at Seoul Gimpo around 15:00. Leave the hotel by **08:00**.
+> Sunrise is **07:33**. Confirm the time and terminal on your booking; flight trackers show it can vary by a few minutes.
+
+#### Schedule
+
+| Time | Where | What to do |
+|---|---|---|
+| 07:00 | 🍳 Grand Hyatt | Breakfast. |
+| 07:45 | Grand Hyatt | Check out. Your bags should already be packed from last night. |
+| **08:00** | 🚐 Drive | About 28 km to PEK Terminal 2. It normally takes 35–50 minutes, but allow up to an hour in Wednesday morning rush hour. |
+| ~08:45–09:00 | ✈️ PEK Terminal 2 | Check in with Korean Air about 3 hours before departure, then go through security and immigration. |
+| **11:45** | ✈️ KE2052 | Departs for Seoul Gimpo (GMP), arriving around 15:00 local time. |
+
+#### Timing check
+
+| Item | Typical rule | Our time | Slack |
+|---|---|---|---|
+| Airport arrival for an international flight | About 3 h before departure | ~08:50 | ✅ |
+| Korean Air check-in close | Usually about 1 h before departure (confirm with Korean Air) | Checked in by ~09:30 | ✅ ~1.5 h |
+| Morning traffic | Weekday rush is roughly 07:00–09:00 | Leave at 08:00 | ✅ Up to an hour allowed |
+
+#### Tickets & tips
+
+- **Check in online** the day before if Korean Air offers it for this route; it saves time at the counter.
+- **Tell the hotel** you're leaving at 08:00, and book the airport transfer in advance.
+- **Use up or change** small amounts of RMB cash before you leave.
+
+#### If plans change
+
+| If… | Then… |
+|---|---|
+| It snowed overnight or traffic is heavy | Leave at 07:30. |
+| The flight time changes | Leave the hotel about 3¾ hours before the new departure time. |
 
 ## What to Ask Your Tour Agency to Lock In Right Now
 
 This plan depends on precise ticketing, so send these notes to your guide or driver provider:
 
-1. **Forbidden City tickets (for Sat, Dec 19):** Tickets are released 7 days in advance at 20:00 Beijing time, which is **Saturday, Dec 12 at 20:00** (12:00 UTC, 07:00 in New York, 04:00 in Los Angeles). The agency must buy the moment sales open, using your exact passport numbers, and add the **Hall of Clocks and Watches** ticket. Bring the same passports on the day. **Backup:** if Dec 19 sells out, try Sun, Dec 20 (released Dec 13 at 20:00) and swap Days 1 and 2.
+1. **Forbidden City tickets (for Sat, Dec 19):** Tickets are released 7 days in advance at 20:00 Beijing time, which is **Saturday, Dec 12 at 20:00** (12:00 UTC, 07:00 in New York, 04:00 in Los Angeles). The agency must buy the moment sales open, using your exact passport numbers, and add the **Hall of Clocks and Watches** ticket. Bring the same passports on the day. **Backups:** if Dec 19 sells out, try Sun, Dec 20 (released Dec 13 at 20:00) and swap Days 1 and 2, or Tue, Dec 22 (released Dec 15 at 20:00).
 2. **Tiananmen Square:** Ask whether you need a separate, free real-name reservation for the square on Dec 19. If so, have the agency make it.
 3. **Sunday combined tickets:** Get the combined ("through") tickets for the Temple of Heaven and the Summer Palace, not basic park entry.
 4. **The Monday swap:** Confirm with the team that you're intentionally doing the Great Wall and Ming Tombs on Monday, Dec 21, to avoid the Monday closures in the city center.
 5. **Mutianyu lifts:** Book a one-way cable car up (Tower 14) and a one-way toboggan down (Tower 6). Also check that the cable car's annual December maintenance day doesn't fall on Dec 21; in 2025 it was Dec 13.
 6. **Ice rink status:** Have the agency check around Dec 17–18 whether the Kunming Lake rink has opened, and line up the indoor-rink Plan B.
-7. **Pickups at the Grand Hyatt:** Day 1 at 07:45 (the guide meets you to walk), Day 2 at 08:25, and Day 3 at 07:00. Set Day 4's time from your flight.
-8. **National Museum (optional, Day 4):** Book with your passports, up to 7 days ahead.
+7. **Pickups:** airport pickup on Fri, Dec 18 (give them your flight number). Then from the Grand Hyatt: Day 1 at 07:45 (the guide meets you to walk), Day 2 at 08:25, Day 3 at 07:00, Day 4 short hops from 12:30, and Day 5 at **08:00 to PEK Terminal 2** for KE2052.
+8. **National Museum (Day 4):** Book with your passports, up to 7 days ahead (from about Dec 15). Optionally, book seats for the Chaoyang Theatre acrobatics show that evening.
 9. **Heated minivan:** Make sure your private vehicle is a spacious, fully heated 7-seater minivan (such as a Buick GL8). That gives you a warm place to leave heavy winter gear while you walk around.
 
 ---
@@ -273,7 +353,7 @@ Reviewed in November 2026. **The overall plan makes sense.** Its key idea, putti
 | Day 1: cricket fighting | Cricket fighting is a late-summer and autumn pastime, so a demonstration is unlikely in late December. | Replaced with a hands-on courtyard activity. |
 | Day 1: "fast-track security" | Tiananmen and Forbidden City security is the same line for everyone. | Changed to "arrive early". |
 | Day 1: Clock Gallery | The Hall of Clocks and Watches needs its own add-on ticket. | Added to the booking checklist. |
-| Day 4: departure | Nothing used the fact that museums reopen on Tuesday. | Added the National Museum option and airport leave times. |
+| Flights | You now arrive Friday evening and leave Wednesday on KE2052 (PEK T2, ~11:45). | Added Day 0 (arrival), turned Tuesday into a full day (National Museum, Beihai Park, optional acrobatics, and a backup slot for the Forbidden City or ice rink), and added Day 5 (leave the hotel at 08:00). |
 | Layout | The `•` bullets ran together on GitHub, and the days used different formats. | Every day now has the same layout: at a glance, schedule, winter hours check, tickets & tips, and if plans change. Added a trip overview table and a shared packing list. |
 
 **Still to confirm closer to the date**, since these details change from year to year:
@@ -299,4 +379,7 @@ Reviewed in November 2026. **The overall plan makes sense.** Its key idea, putti
 - Ming Tombs winter hours: [China Xian Tour – Ming Tombs](https://www.chinaxiantour.com/beijing-attractions/ming-tombs); [Travel China – Ming Tombs](https://www.chinatravel.com/beijing/attraction/ming-tombs)
 - Forbidden City booking rules: [Beijing government – Palace Museum visiting guidelines](https://english.beijing.gov.cn/latest/news/202306/t20230629_3150036.html)
 - Hotel location: [Visit Beijing – Grand Hyatt Beijing](https://r.visitbeijing.com.cn/hotel/278)
+- KE2052 schedule (PEK T2 ~11:45 → Gimpo ~15:00): [Trip.com – KE2052 status](https://www.trip.com/flights/status-ke2052/); [Avionio – KE2052](https://www.avionio.com/en/flight/ke-2052)
+- Beihai Park winter hours: [Beijing government – Beihai Park](https://english.beijing.gov.cn/specials/parktours/guidevisitors/beihaipark/)
+- Chaoyang Theatre acrobatics: [China Highlights – Chaoyang Acrobatics Theater](https://chinahighlights.com/beijing/attraction/chaoyang-acrobatics-theater.htm); [China Beijing Private Tour – acrobatic show tickets](https://chinabeijingprivatetour.com/tickets/show/beijing-acrobatic-show-ticket-booking.htm)
 - I calculated sunrise and sunset for each date, and estimated distances from the hotel using map coordinates. Road distances are approximate.

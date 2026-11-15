@@ -10,7 +10,8 @@ These are options for running the [December itinerary](DecemberItenarary.md) wit
 
 - **Day 3 (Great Wall + Ming Tombs):** RMB 4,000 is fair if it includes tickets and lunch. All-inclusive private tours start at about RMB 2,400, and most cost RMB 2,400–4,800. A car and guide you arrange yourself works out at about RMB 3,300–4,000 once tickets, lunch, tips, and overtime are added.
 - **Days 1 and 2 (city days):** RMB 4,000 is on the high side. Day 1 is mostly on foot and barely needs a car, so a guide alone, plus a couple of taxi rides, covers it for about RMB 2,000 in total.
-- **Day 4:** You don't need a tour. Book an airport transfer only.
+- **Day 4 (Tue):** Everything is close to the hotel, so you can skip the tour. Use taxis, or book a guide only.
+- **Day 0 (Fri) and Day 5 (Wed):** Book airport transfers only. For KE2052 that's a pickup at 08:00 to PEK Terminal 2.
 - **Ask the hotel what its RMB 4,000 includes:** tickets, lunch, tolls and parking, and how many hours and kilometers. Then compare quotes like for like.
 
 ## Price comparison
@@ -87,7 +88,8 @@ How the DIY estimates were built:
 | 1 | Guide only. Walk to the Forbidden City, then take taxis to lunch and Houhai. | ~2,000 including tickets and lunch |
 | 2 | All-inclusive private tour, or car + guide | ~2,400–3,600 |
 | 3 | All-inclusive private tour, or the hotel if its RMB 4,000 includes tickets and lunch | ~2,400–4,000 |
-| 4 | Airport transfer only | Ask for a transfer-only price |
+| 4 | No tour needed. Walk to the museum, then take taxis to Beihai and the theatre. | ~1,000–1,500 including lunch and acrobatics tickets |
+| 0 and 5 | Airport transfers only (Fri evening in, Wed 08:00 out) | Ask for transfer-only prices |
 
 That comes to roughly **RMB 6,800–9,600 for Days 1–3**, compared with about **RMB 12,000** for three days with the hotel. The hotel is simpler, and if anything goes wrong you deal with one company you already know.
 
