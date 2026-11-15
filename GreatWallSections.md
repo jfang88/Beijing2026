@@ -4,7 +4,7 @@ This guide compares the Great Wall sections you can visit from Beijing and expla
 
 ## The short version
 
-- **Our pick for Mon, Dec 21: Mutianyu.** It's fully restored, has a cable car and a toboggan, is much quieter than Badaling, and pairs easily with the Ming Tombs in one day. That makes it the best fit for a family with a 10-year-old in winter.
+- **Our pick for Tue, Dec 22: Mutianyu.** It's fully restored, has a cable car and a toboggan, is much quieter than Badaling, and pairs easily with the Ming Tombs in one day. That makes it the best fit for a family with a 10-year-old in winter.
 - **Backup if Mutianyu's lifts are down or the weather turns:** go to **Badaling** (which has cable cars) or **Juyongguan** (closest to the city). Both are on the same northwest side of the city as the Ming Tombs, so the rest of the day still works.
 - **Skip on this trip:** **Jiankou** is wild, unrestored, and not officially open. **Jinshanling** and **Simatai** are 2–3 hours away, steep, and icy in winter.
 
