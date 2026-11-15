@@ -12,7 +12,7 @@ The hotel has quoted two private day tours. Each costs **RMB 4,000 for all three
 
 | Hotel tour | What's included | Not included | Rough all-in cost for 3 (RMB) | Verdict |
 |---|---|---|---|---|
-| **Great Wall: Mutianyu + Ming Tombs** | Car, driver, guide, and entry tickets (Mutianyu, Dingling, Sacred Way: worth about ¥330–350 for 3) | Cable car up and toboggan down (~¥140 each, ~¥420 for 3); lunch (~¥300–500); possibly the Mutianyu shuttle bus (¥15 each) | **~4,700–4,900** | **OK, but at the top of the market.** That's about 1.5× the cheaper all-inclusive operators (~RMB 2,800 including lifts). It's worth it if you value booking through the hotel and having one place to complain. |
+| **Great Wall: Mutianyu + Ming Tombs** | Car, driver, guide, and entry tickets (Mutianyu, Dingling, Sacred Way: worth about ¥330–350 for 3) | Cable car up and toboggan down (~¥140 per person, ~¥420 for 3); lunch (~¥300–500); possibly the Mutianyu shuttle bus (¥15 each) | **~4,700–4,900** | **OK, but at the top of the market.** That's about 1.7× the cheaper all-inclusive operators (~RMB 2,800 including lifts and lunch). It's worth it if you value booking through the hotel and having one place to complain. |
 | **City: Forbidden City, Tiananmen, Temple of Heaven, Summer Palace in one day** | Car, driver, guide; leaves at 09:00. Ask whether tickets are included (worth about ¥380 for 3, including the Clock Gallery). | Lunch; tickets unless confirmed | **~4,300–4,800** | **Pricey and rushed.** Similar private tours run about RMB 3,400–3,600, usually with tickets. Four big sites in one day with a 10-year-old leaves no time for the Clock Gallery, the Jingshan view, or the ice rink. It can't run on a Monday. |
 
 **Before booking the Great Wall tour, confirm:**
@@ -56,7 +56,7 @@ They may do the Forbidden City first and the Temple of Heaven after lunch. The d
 | Tiananmen Square | ~20 min | Passed through on the walk in |
 | Forbidden City | ~2.5 h, entering ~11:00 when it's busiest | ~3.5 h from the 08:30 opening, plus the Jingshan view |
 | Summer Palace | ~1¼ h, arriving 15:15 as the light fades | ~3¼ h, including the ice rink if it's open |
-| Driving | ~2 h | Less, spread over two days |
+| Driving | ~2–2½ h | About the same in total, spread over two days |
 | **Total sightseeing** | **~5 h** | **~9 h over two days** |
 
 **What gets squeezed out of the one-day version:**
@@ -68,7 +68,7 @@ They may do the Forbidden City first and the Temple of Heaven after lunch. The d
 
 **If we take the hotel's one-day tour anyway:**
 
-1. **Ask for an 08:15 start,** so we reach the Forbidden City at its 08:30 opening, before the crowds.
+1. **Ask for an 08:15 start and the Forbidden City first,** so we reach it at its 08:30 opening, before the crowds.
 2. **Drop one site,** ideally the Summer Palace, which is the farthest and gets the worst light. Three sites in a day is comfortable; four is a sprint.
 3. **Ask for their actual timetable,** with minutes at each stop, and whether tickets (including the Clock Gallery) are included.
 
@@ -86,12 +86,12 @@ They may do the Forbidden City first and the Temple of Heaven after lunch. The d
 
 All prices are rough totals in RMB for 3 people, per day.
 
-| Option | What's usually included | Day 1: city (mostly on foot) | Day 4 (Tue): Temple of Heaven + Summer Palace | Day 2 (Sun): Mutianyu + Ming Tombs |
+| Option | What's usually included | Day 1 (Sat): city (mostly on foot) | Day 2 (Sun): Mutianyu + Ming Tombs | Day 4 (Tue): Temple of Heaven + Summer Palace |
 |---|---|---|---|---|
-| **Grand Hyatt** (quoted) | Car, driver, guide; Great Wall tour includes entry tickets; lunch extra on both | ~4,000 (one-day city tour: Forbidden City, Tiananmen, Temple of Heaven, Summer Palace) | (covered by the same one-day tour) | 4,000 + lifts ~420 + lunch ≈ **4,800** |
-| **All-inclusive private tour** (e.g. Tour Beijing) | Car, driver, guide, entry tickets, lunch | ~2,400–3,600 | ~2,400–3,600 | **~2,400** |
-| **Booking platforms** (Viator, Trip.com, GetYourGuide, Klook) | Varies; check each listing | ~3,400+ | ~3,400+ | ~2,400–4,800 |
-| **DIY: car + driver + guide**, then pay tickets, lunch and tips yourself | Car, driver and guide only | ~1,900–2,100 (guide and taxis, no car) | ~2,100–2,900 | ~3,300–4,000 |
+| **Grand Hyatt** (quoted) | Car, driver, guide; Great Wall tour includes entry tickets; lunch extra on both | ~4,000 (one-day city tour: Forbidden City, Tiananmen, Temple of Heaven, Summer Palace) | 4,000 + lifts ~420 + lunch ≈ **4,800** | (covered by the same one-day tour) |
+| **All-inclusive private tour** (e.g. Tour Beijing) | Car, driver, guide, entry tickets, lunch | ~2,400–3,600 | **~2,400** (+ ~420 lifts) | ~2,400–3,600 |
+| **Booking platforms** (Viator, Trip.com, GetYourGuide, Klook) | Varies; check each listing | ~3,400+ | ~2,400–4,800 | ~3,400+ |
+| **DIY: car + driver + guide**, then pay tickets, lunch and tips yourself | Car, driver and guide only | ~1,900–2,100 (guide and taxis, no car) | ~3,300–4,000 | ~2,100–2,900 |
 | **Luxury** (WildChina, Bespoke Travel Company) | Top guides, fully tailored | Quote; likely well above the hotel | Quote | Quote |
 
 How the DIY estimates were built:
@@ -123,20 +123,23 @@ How the DIY estimates were built:
 |---|---|---|---|
 | 1 | Forbidden City | ¥40 | ¥120 |
 | 1 | Hall of Clocks and Watches (add-on) | ¥10 | ¥30 |
-| 4 | Temple of Heaven combined ticket | ¥28 | ¥84 |
-| 4 | Summer Palace combined ticket | ¥50 | ¥150 |
+| 1 | Jingshan Park | ¥2 | ¥6 |
+| 1 | Beihai Park combined ticket (incl. White Dagoba area) | ¥15 | ¥45 |
 | 2 | Mutianyu entry | ¥40 | ¥120 |
 | 2 | Mutianyu shuttle bus (round trip) | ¥15 | ¥45 |
 | 2 | Cable car up + toboggan down | ¥140 | ¥420 |
 | 2 | Dingling | ¥40 | ¥120 |
 | 2 | Sacred Way | ¥15–20 | ¥45–60 |
+| 3 | Lama Temple (under-18s reportedly free) | ¥25 | ¥75 |
+| 4 | Temple of Heaven combined ticket | ¥28 | ¥84 |
+| 4 | Summer Palace combined ticket | ¥50 | ¥150 |
 | Optional | National Museum of China | Free (book ahead) | — |
-| | **Total, all days** | | **≈ ¥1,150** |
+| | **Total, all days** | | **≈ ¥1,270** |
 
 - Child discounts vary by site; some go by height, others by age. Budget at the adult price and treat any discount as a bonus.
 - Some 2026 price lists show the **cable car up + toboggan down** as a single combined ticket at about ¥140. If it isn't sold that way, buy a one-way ticket for each.
 - From June 2026, Mutianyu may refuse toboggan rides to visitors **over 60**, and staff may check ID.
-- The Summer Palace ice rink and the hutong rickshaw ride are extra and weren't priced here.
+- The ice rinks, the hutong rickshaw ride with dumpling lunch, and the acrobatics show (about ¥180–880 per seat) are extra.
 
 ## Questions to ask every operator, including the hotel
 
@@ -154,12 +157,14 @@ How the DIY estimates were built:
 | Day | Suggestion | Rough cost for 3 (RMB) |
 |---|---|---|
 | 1 | Guide only. Walk to the Forbidden City, then take taxis to lunch and Beihai Park. | ~2,000 including tickets and lunch |
-| 2 (Sun) | All-inclusive private tour, or the hotel if its RMB 4,000 includes tickets and lunch | ~2,400–4,000 |
+| 2 (Sun) | All-inclusive private tour (~2,800 with lifts), or the hotel's tour (~4,800 all in) | ~2,800–4,800 |
 | 3 (Mon) | No tour needed: taxis or a van for short hops, the Lama Temple, a rickshaw and dumpling lunch, and acrobatics | ~1,500–2,500 including the rickshaw, lunch, and show tickets |
 | 4 (Tue) | Temple of Heaven + Summer Palace: all-inclusive private tour, or car + guide | ~2,400–3,600 |
 | 0 and 5 | Airport transfers only (Fri evening in, Wed 08:00 out) | Ask for transfer-only prices |
 
-That comes to roughly **RMB 8,300–12,100 for Days 1–4**, compared with about **RMB 16,000** for four days with the hotel. The hotel is simpler, and if anything goes wrong you deal with one company you already know.
+That comes to roughly **RMB 8,700–12,900 for Days 1–4**.
+
+For comparison, using the hotel's two quoted tours costs about **RMB 4,800 (Great Wall) + 4,300–4,800 (one-day city tour)**, so roughly **RMB 9,100–9,600**, plus your own Monday (~RMB 1,500–2,500). The total is similar, but the city tour squeezes the Forbidden City, Temple of Heaven, and Summer Palace into one rushed day, and frees up a day for something else. The hotel is simpler, and if anything goes wrong you deal with one company you already know.
 
 ## Sources
 
@@ -167,5 +172,6 @@ That comes to roughly **RMB 8,300–12,100 for Days 1–4**, compared with about
 - Booking platform prices: [Viator – Mutianyu + Ming Tombs private tour](https://www.viator.com/tours/Beijing/Private-Tour-to-Mutianyu-Great-Wall-and-Ming-Tombs-from-Beijing/d321-11301P17); [TripAdvisor – private Mutianyu + Ming Tombs tour](https://www.tripadvisor.com/AttractionProductReview-g294212-d12152778-Private_Tour_Ming_Tombs_and_Great_Wall_at_Mutianyu_from_Beijing-Beijing.html); [The Abroad Guide – Mutianyu + Ming Tombs private tour](https://theabroadguide.com/beijing-mutianyu-great-wall-and-ming-tomb-private-tour/); [Expedia – Discover Beijing Tours Mutianyu + Ming Tombs](https://www.expedia.com/zh/things-to-do/beijing-mutianyu-great-wall-and-ming-tombs-private-tour.a47962964.activity-details); [Expedia – Temple of Heaven, Tiananmen, Forbidden City private tour](https://www.expedia.com/things-to-do/beijing-private-tour-of-temple-of-heaven-tiananmen-square-forbidden-city.a2142884.activity-details); [Magpie – private Beijing city tour](https://magpie.travel/things-to-do/1-day-private-beijing-city-tour-forbidden-city-temple-of-heaven-summer-palace/ee27505c-01c9-4e20-9f70-c005eafb1a50)
 - Car and guide rates: [China Travel Sorted – Beijing private tour guide costs](https://chinatravelsorted.pages.dev/directory/beijing-private-tour-guide/); [China Xian Tour – Beijing daily car rental](https://www.chinaxiantour.com/car-rental/beijing-car-rental/beijing-daily-car-rental.html); [Wild Great Wall – car hire to the Great Wall](https://wildgreatwall.com/car-hire-to-great-wall-from-beijing/)
 - Operator reviews: [TripAdvisor – best Beijing private tours](https://www.tripadvisor.com/Attractions-g294212-Activities-c42-t235-Beijing.html); [Bespoke Travel Company](https://www.tripadvisor.com/Attraction_Review-g294212-d3309491-Reviews-Bespoke_Travel_Company-Beijing.html); [Jacks Beijing Tour](https://www.tripadvisor.com/Attraction_Review-g294212-d6725441-Reviews-Jacks_Beijing_Tour-Beijing.html); [Beijing Private Tour Guide Fiona](https://www.tripadvisor.com/Attraction_Review-g294212-d2444230-Reviews-Beijing_Private_Tour_Guide_Fiona-Beijing.html); [WildChina – Imperial Beijing Day Tour](https://wildchina.com/?p=29521)
+- Beihai, Jingshan and Lama Temple tickets: [China Travel – Beihai Park](https://chinatravel.com/beijing/attraction/beihai-park); [Beijing government – Jingshan Park tickets](https://english.beijing.gov.cn/specials/parktours/guidevisitors/jingshanpark/overview/202301/t20230111_2896664.html); [Discover Beijing Tours – Lama Temple tickets](https://www.discoverbeijingtour.com/?p=18079)
 - Ticket prices: [Mutianyu 2026 prices and toboggan age rule](https://mychina.guide/blog/mutianyu-great-wall-guide-toboggan-drivers); [China Travel – Mutianyu tickets](https://www.chinatravel.com/great-wall-of-china/mutianyu-great-wall); [Forbidden City off-season price](https://chinaexplorertour.com/2024/article/forbidden-city-off-season-ticket-prices-and-preferential-policies/); [Temple of Heaven off-season prices](https://intotravelchina.com/articles/1777365728513622395.html); [Beijing government – Ming Tombs](https://english.beijing.gov.cn/specials/ticketing/attractions/202407/t20240719_3753671.html); [Beijing government – Summer Palace ticket information](https://english.beijing.gov.cn/specials/parktours/guidevisitors/summerpalace/overview/202301/t20230111_2896518.html)
 - Exchange rate: [CurrencyBeacon – USD/CNY](https://currencybeacon.com/index.php/rates/USD/CNY) (6.71 on Sep 9, 2026)
