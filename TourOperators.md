@@ -30,6 +30,50 @@ The hotel has quoted two private day tours. Each costs **RMB 4,000 for all three
 - **Tue (Temple of Heaven + Summer Palace):** Ask the hotel for a price on just these two, and compare it with an outside operator (about RMB 2,400–3,600).
 - If you'd rather use the hotel's one-day city tour, do it on **Saturday or Tuesday**, and use the freed-up day for rest, the National Museum, or the ice rink.
 
+### What the hotel's one-day city tour would probably look like
+
+The hotel hasn't sent its timetable, so this is an **estimate** based on a 09:00 departure and each site's winter limits. The fixed limits are the Forbidden City's last entry at 15:30, the Summer Palace inner sites' last entry at 16:30, and sunset at about 16:52.
+
+| Time | Stop | Time there |
+|---|---|---|
+| 09:00–09:15 | Drive ~4 km south | — |
+| 09:15–10:15 | **Temple of Heaven**: Hall of Prayer, Echo Wall, Circular Mound | ~1 h |
+| 10:15–10:40 | Drive to Tiananmen | — |
+| 10:40–11:00 | Security, then **Tiananmen Square** | ~20 min |
+| 11:00–13:30 | **Forbidden City**, south to north | ~2.5 h |
+| 13:30–14:30 | Lunch (your own expense) | ~1 h |
+| 14:30–15:15 | Drive ~20 km northwest | — |
+| 15:15–16:30 | **Summer Palace**: Long Corridor, Marble Boat, maybe Longevity Hill | ~1¼ h |
+| 16:30–17:30 | Drive back in rush hour | — |
+
+They may do the Forbidden City first and the Temple of Heaven after lunch. The day comes out much the same either way, because the Summer Palace is the far stop and has to come last.
+
+**Compared with our plan:**
+
+| Site | Hotel's one-day tour | Our plan (Sat + Tue) |
+|---|---|---|
+| Temple of Heaven | ~1 h, mid-morning | ~2¼ h, early, while local seniors are out doing tai chi |
+| Tiananmen Square | ~20 min | Passed through on the walk in |
+| Forbidden City | ~2.5 h, entering ~11:00 when it's busiest | ~3.5 h from the 08:30 opening, plus the Jingshan view |
+| Summer Palace | ~1¼ h, arriving 15:15 as the light fades | ~3¼ h, including the ice rink if it's open |
+| Driving | ~2 h | Less, spread over two days |
+| **Total sightseeing** | **~5 h** | **~9 h over two days** |
+
+**What gets squeezed out of the one-day version:**
+
+- The **Hall of Clocks and Watches**, which needs 30–45 minutes, or you rush the main halls.
+- **Climbing Longevity Hill** and the **Kunming Lake ice rink**.
+- The **Jingshan Park** view over the palace roofs.
+- **Slack.** A slow security queue or a long lunch cuts into the Summer Palace, and the cold late afternoon is the worst time to be there with a 10-year-old.
+
+**If we take the hotel's one-day tour anyway:**
+
+1. **Ask for an 08:15 start,** so we reach the Forbidden City at its 08:30 opening, before the crowds.
+2. **Drop one site,** ideally the Summer Palace, which is the farthest and gets the worst light. Three sites in a day is comfortable; four is a sprint.
+3. **Ask for their actual timetable,** with minutes at each stop, and whether tickets (including the Clock Gallery) are included.
+
+**Recommendation:** Split it as our plan does. Do the Forbidden City on Saturday with a guide, on foot from the hotel, and the Temple of Heaven and Summer Palace on Tuesday. Use the hotel for the Great Wall day on Sunday, with a 07:00 start.
+
 ## The short answer
 
 - **Day 2 (Sun): Great Wall + Ming Tombs.** The hotel's RMB 4,000 includes entry tickets but not lifts or lunch, so it comes to about RMB 4,800 all in. That's acceptable but at the top of the market. All-inclusive private tours start at about RMB 2,400, and most cost RMB 2,400–4,800. A car and guide you arrange yourself works out at about RMB 3,300–4,000 once tickets, lunch, tips, and overtime are added.
