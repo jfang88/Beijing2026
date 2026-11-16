@@ -21,9 +21,9 @@ You fly in on the evening of **Friday, December 18** and out on **Wednesday, Dec
 - ✅ **Open on Monday:** the Great Wall and the Ming Tombs, the Lama Temple, the hutongs and the Shichahai lakes, Tiananmen Square, Jingshan Park, the Temple of Heaven park grounds, the Summer Palace park and lake, and evening shows such as the acrobatics.
 - ❌ **Closed on Monday:** the Forbidden City (Palace Museum), the main halls of the Temple of Heaven (Hall of Prayer for Good Harvests, Circular Mound Altar), the separately ticketed inner sites of the Summer Palace (such as the Tower of Buddhist Incense), Beihai Park's inner courtyards (White Dagoba area), and the National Museum of China.
 
-**Why the Great Wall is on Sunday, not Monday:** because the city's museums close on Mondays, Monday is the default Great Wall day for many tour groups, and travellers report Mondays at Mutianyu being noticeably busier. Late December is low season, so "busy" is relative. Sunday brings some local weekend visitors instead, so arrive at opening.
+**Why the Great Wall is on Sunday, not Monday:** because the city's museums close on Mondays, Monday is the default Great Wall day for many tour groups, and travellers report Mondays at Mutianyu being noticeably busier. Late December is low season, so "busy" is relative. Sunday brings some local weekend visitors instead, so arrive at opening. Monday is filled with things that stay open on Mondays: the Lama Temple, the hutongs, the lakes, and an acrobatics show.
 
-**Weekends (Sat and Sun):** Beijing's plate-number driving restriction applies on weekdays only, so more private cars are out at weekends. There's no commuter rush, though, so weekend mornings are usually the easiest driving of the week. The traffic to watch is **Sunday afternoon**, when people drive back into the city from the suburbs; that's why the Great Wall day heads home by about 16:20. Crowds are heavier at weekends at the Forbidden City (tickets sell out fastest for weekend dates) and with local day-trippers at the Wall. Late December is the quietest season, though, so expect busier, not packed. Monday is now filled with things that stay open on Mondays: the Lama Temple, the hutongs, the lakes, and an acrobatics show.
+**Weekends (Sat and Sun):** Beijing's plate-number driving restriction applies on weekdays only, so more private cars are out at weekends. There's no commuter rush, though, so weekend mornings are usually the easiest driving of the week. The traffic to watch is **Sunday afternoon**, when people drive back into the city from the suburbs; that's why the Great Wall day heads home by about 16:20. Crowds are heavier at weekends at the Forbidden City (tickets sell out fastest for weekend dates) and with local day-trippers at the Wall. Late December is the quietest season, though, so expect busier, not packed.
 
 ## Weather and daylight
 
@@ -37,21 +37,21 @@ The hotel is in Oriental Plaza at 1 East Chang'an Avenue, at the south end of Wa
 
 | Place | Day | Distance | How | Time |
 |---|---|---|---|---|
-| Wangfujing shopping street | Any | On the doorstep | Walk | 2 min |
-| National Museum of China | Optional | ~1.5 km | Walk west along Chang'an Avenue | 15–20 min |
+| Capital Airport (PEK), Terminal 2 for KE2052 | 0, 5 | ~28 km | Van | 35–50 min |
+| Daxing Airport (PKX) | 0 (if you land there) | ~50 km | Van | 60–75 min |
 | Tiananmen Square | 1 | ~2 km | Walk, or metro Line 1 one stop (Wangfujing → Tiananmen East) | 25 min walk / ~15 min by metro |
 | Forbidden City (Meridian Gate) | 1 | ~2.5 km | Walk through Tiananmen, or metro plus a 10-min walk | 30–35 min |
 | Jingshan Park | 1 | ~3 km | Cross the road from the Forbidden City's north exit | 2 min from the exit |
-| Houhai hutongs | 3 | ~5–6 km | Van | 15–25 min |
+| Beihai Park | 1 | ~4 km; next to Jingshan Park | Van from lunch, or walk from Jingshan | ~15 min by van / 5–10 min on foot from Jingshan |
+| Mutianyu Great Wall | 2 | ~75 km | Van | ~1.5 h |
+| Ming Tombs (Dingling) | 2 | ~55 km | Van | 1–1.25 h |
 | Lama Temple | 3 | ~5 km | Van or taxi | 15–20 min |
+| Houhai hutongs | 3 | ~5–6 km | Van | 15–25 min |
+| Chaoyang Theatre (acrobatics) | 3 | ~6 km | Van or taxi | 20–30 min |
 | Temple of Heaven | 4 | ~4 km | Van | 15–20 min |
 | Summer Palace | 4 | ~20 km | Van | 45–60 min |
-| Ming Tombs (Dingling) | 2 | ~55 km | Van | 1–1.25 h |
-| Mutianyu Great Wall | 2 | ~75 km | Van | ~1.5 h |
-| Beihai Park | 1 | Next to Jingshan Park | Walk | 5–10 min from Jingshan |
-| Chaoyang Theatre (acrobatics) | 3 | ~6 km | Van or taxi | 20–30 min |
-| Capital Airport (PEK), Terminal 2 for KE2052 | 0, 5 | ~28 km | Van | 35–50 min |
-| Daxing Airport (PKX) | 0 (if you land there) | ~50 km | Van | 60–75 min |
+| Wangfujing shopping street | Any | On the doorstep | Walk | 2 min |
+| National Museum of China | Optional | ~1.5 km | Walk west along Chang'an Avenue | 15–20 min |
 
 - Stopping is restricted along Chang'an Avenue around Tiananmen, so on Day 1 walking or taking the metro is usually as quick as the van.
 - Distances are road estimates. Times assume normal traffic; weekday rush hours are roughly 07:00–09:00 and 17:00–19:00.
@@ -203,6 +203,28 @@ Every stop has at least an hour to spare before its last entry, and all outdoor 
 | You're running late | Make sure you reach **Dingling before its 16:30 last entry**, and shorten the Sacred Way. |
 | Someone is too cold | Head back to the warm van. Dingling's underground chambers are also out of the wind. |
 
+#### 💬 To discuss as a family: how much of the Ming Tombs?
+
+Mutianyu plus the Ming Tombs is one of Beijing's standard Great Wall day tours, which is why the hotel and most operators sell it. Plenty of families do the Great Wall only, though. The tombs add about **2½ hours**, including roughly an hour of extra driving, to a day that starts at 07:00 in the cold.
+
+**Will the tombs work for a 10-year-old?**
+
+- **Sacred Way: good for kids.** It's an outdoor avenue of giant stone elephants, camels, lions, mythical beasts and stone officials. It's short, very photogenic, works well for a scavenger hunt, and is on the way back to the city.
+- **Dingling: hit or miss.** Going 27 m underground is exciting for a few minutes, but the vaults are mostly bare stone chambers (the treasures were moved to museums long ago), with a lot of stairs. After a cold morning on the Wall, many kids lose interest quickly.
+
+| Option | The day | Back at hotel | Best if… |
+|---|---|---|---|
+| **A. Mutianyu only** | Leave ~07:30, Wall and toboggan, lunch near the Wall, drive back | ~14:30 | You want a relaxed afternoon: rest, swim, or the ice rink if it's open. Ask the hotel for a lower price for the shorter day. |
+| **B. Mutianyu + Sacred Way** *(suggested)* | As planned, but after lunch drive straight to the Sacred Way (~30–45 min there), skipping Dingling | ~16:00 | You want the best of both for a kid, and to beat the Sunday evening traffic. |
+| **C. Full plan** | Mutianyu, Dingling, then the Sacred Way (the schedule above) | ~17:45 | Your son loves history, or the "underground palace" idea excites him. |
+
+**Things to weigh up:**
+
+- **Energy for Monday.** Options A and B leave more in the tank for the Lama Temple, hutongs and acrobatics.
+- **Cost.** The hotel's RMB 4,000 quote includes the tomb tickets and a long day. For A or B, ask whether the price drops. With an outside operator, a shorter day may also avoid overtime charges.
+- **Traffic.** Sunday traffic back into the city builds after 16:00. A and B get you home before it.
+- **Ask your son.** Show him photos of the stone animals and the underground palace and let him vote.
+
 ### Day 3: Monday, Dec 21 — Temples, Hutongs & Acrobats (Monday-Proof Day)
 
 > **At a glance:** Everything today stays open on Mondays: a working Tibetan Buddhist temple, a hutong rickshaw ride with a dumpling-making lunch, lake ice if it's frozen, and an evening acrobatics show.
@@ -236,7 +258,7 @@ Every stop has at least an hour to spare before its last entry, and all outdoor 
 - **Lama Temple:** One 2026 guide says entry is now by pre-booked timed ticket only, opening 7 days ahead (about Dec 14) through the official WeChat mini-program, using your passport. Other guides say weekday tickets at the gate are fine. Have the agency book it to be safe.
 - **Respect inside the temple:** Photos aren't allowed inside the halls, and people are praying, so keep voices low.
 - **Acrobatics:** Box-office prices run from about ¥180 to ¥880 per seat depending on the section. Booking sites list seats at about US$36–43. Book a few days ahead.
-- **Early night:** Tomorrow is the Great Wall, with a 07:00 start.
+- **Tomorrow:** the Temple of Heaven and Summer Palace, leaving the hotel at 08:25.
 
 #### If plans change
 
@@ -244,7 +266,7 @@ Every stop has at least an hour to spare before its last entry, and all outdoor 
 |---|---|
 | The Kunming Lake rink at the Summer Palace has opened | Swap Shichahai for the Summer Palace rink. The park and lake stay open on Mondays, though the inner sites don't (45–60 min drive). |
 | Everyone is tired | Skip the ice, rest longer at the hotel, and keep the show. |
-| The Lama Temple is fully booked | Swap it for a longer hutong morning, or the Temple of Heaven park grounds (open on Mondays, but not the halls). |
+| The Lama Temple is fully booked | Swap it for a longer hutong morning, or Jingshan Park (open on Mondays) if you missed it on Saturday. |
 
 ### Day 4: Tuesday, Dec 22 — Imperial Parks & Lake Ice
 
@@ -337,7 +359,7 @@ This plan depends on precise ticketing, so send these notes to your guide or dri
 3. **Tuesday combined tickets:** Get the combined ("through") tickets for the Temple of Heaven and the Summer Palace, not basic park entry.
 4. **Great Wall on Sunday:** Confirm with the team that you're doing the Great Wall and Ming Tombs on **Sunday, Dec 20**, to avoid the Monday tour-group rush. Monday is a city day of places that stay open on Mondays.
 5. **Mutianyu lifts:** Book a one-way cable car up (Tower 14) and a one-way toboggan down (Tower 6). Also check that the cable car's annual December maintenance day doesn't fall on Dec 20; in 2025 it was Dec 13.
-6. **Ice rink status:** Have the agency check around Dec 17–18 whether the Kunming Lake rink has opened, and line up the indoor-rink Plan B.
+6. **Ice rink status:** Have the agency check around Dec 19–21 whether the Kunming Lake rink has opened for your Tuesday (Dec 22) visit, and line up the indoor-rink Plan B.
 7. **Pickups:** airport pickup on Fri, Dec 18 (give them your flight number). Then from the Grand Hyatt: Day 1 at 07:45 (the guide meets you to walk), Day 2 at **07:00** for the Great Wall, Day 3 at 08:40, Day 4 at 08:25, and Day 5 at **08:00 to PEK Terminal 2** for KE2052.
 8. **Monday bookings:** a timed Lama Temple ticket (opens about Dec 14), the Houhai rickshaw and courtyard dumpling lunch, and Chaoyang Theatre acrobatics seats for Monday evening.
 9. **Heated minivan:** Make sure your private vehicle is a spacious, fully heated 7-seater minivan (such as a Buick GL8). That gives you a warm place to leave heavy winter gear while you walk around.
@@ -350,19 +372,20 @@ Reviewed in November 2026. **The overall plan makes sense.** Every site falls on
 
 | Area | Issue found | Change made |
 |---|---|---|
-| Day 2: Summer Palace ice rink | The Kunming Lake rink opens only when the lake ice is thick enough, typically in late December (Dec 31 in 2022). It is likely **not open on Dec 20**, and still uncertain on Dec 22. | The rink is now a bonus, with an indoor-rink Plan B and a check before the trip. |
-| Day 2: Summer Palace order | The plan went "straight to the ice rink", which may not be open, and would have skipped the main sights. | Longevity Hill and the Tower of Buddhist Incense now come first. *(The first review said these close around 16:00. The official winter last entry is 16:30.)* |
-| Day 2: cross-town drive | The Temple of Heaven (southeast) and the Summer Palace (northwest) are about 20 km apart. The 30 minutes allowed after lunch was tight. | The drive now happens before lunch, and lunch is near the Summer Palace. |
+| Summer Palace ice rink | The Kunming Lake rink opens only when the lake ice is thick enough, typically in late December (Dec 31 in 2022). It was likely **not open on Dec 20** (the original date), and is still uncertain on Tue, Dec 22. | The rink is now a bonus, with an indoor-rink Plan B and a check before the trip. |
+| Summer Palace order | The plan went "straight to the ice rink", which may not be open, and would have skipped the main sights. | Longevity Hill and the Tower of Buddhist Incense now come first. *(The first review said these close around 16:00. The official winter last entry is 16:30.)* |
+| Temple of Heaven → Summer Palace drive | The Temple of Heaven (southeast) and the Summer Palace (northwest) are about 20 km apart. The 30 minutes allowed after lunch was tight. | The drive now happens before lunch, and lunch is near the Summer Palace. |
 | Great Wall day: order | Mutianyu was 13:30–16:30. In winter the toboggan closes at 16:30, ticket sales probably stop around 15:30, and sunset is 16:52, so there was no buffer. | Mutianyu is now in the morning. The Ming Tombs, which are mostly underground and less affected by fading light, are in the afternoon, with the Sacred Way on the drive home. |
 | Great Wall day: Mutianyu tickets | The cable car and the toboggan are run by different companies, so a round-trip ticket on either won't get you "cable car up, toboggan down". | Spelled out one-way tickets, the toboggan's weather rule, and the chairlift fallback. |
 | Winter timing check (all days) | Each stop was checked against its winter hours and the daylight for its date. | Every stop fits. Added a 30-minute buffer after Mutianyu, a running-late rule for each day, and a backup date if Forbidden City tickets sell out. |
 | Hotel | The plan didn't say where you're staying. | Added "Getting around from the Grand Hyatt" with distances and travel times. Set pickup times for each day, and Day 1 now starts on foot. |
-| Day 1: cricket fighting | Cricket fighting is a late-summer and autumn pastime, so a demonstration is unlikely in late December. | Replaced with a hands-on courtyard activity. |
+| Hutongs: cricket fighting | Cricket fighting is a late-summer and autumn pastime, so a demonstration is unlikely in late December. | Replaced with a hands-on courtyard activity (now the Monday dumpling-making lunch). |
 | Day 1: "fast-track security" | Tiananmen and Forbidden City security is the same line for everyone. | Changed to "arrive early". |
 | Day 1: Clock Gallery | The Hall of Clocks and Watches needs its own add-on ticket. | Added to the booking checklist. |
-| Flights | You now arrive Friday evening and leave Wednesday on KE2052 (PEK T2, ~11:45). | Added Day 0 (arrival), turned Tuesday into a full day (National Museum, Beihai Park, optional acrobatics, and a backup slot for the Forbidden City or ice rink), and added Day 5 (leave the hotel at 08:00). |
-| Monday crowds at the Wall | The concierge warned that the Great Wall gets busy on Mondays, because many tour groups go there while city museums are closed. Traveller reports back this up. | Moved the Great Wall and Ming Tombs to Tuesday. Monday is now the Lama Temple, Houhai hutongs with a dumpling lunch, lake ice, and acrobatics. Beihai Park (closed Mondays) moved to Saturday afternoon, and the National Museum became an optional swap. |
+| Flights | You now arrive Friday evening and leave Wednesday on KE2052 (PEK T2, ~11:45). | Added Day 0 (arrival), a fifth full sightseeing day, and Day 5 (leave the hotel at 08:00). The days were rearranged in the next two rows. |
+| Monday crowds at the Wall | The concierge warned that the Great Wall gets busy on Mondays, because many tour groups go there while city museums are closed. Traveller reports back this up. | Moved the Great Wall off Monday (first to Tuesday, then to Sunday at your request; see the next row). Monday is now the Lama Temple, Houhai hutongs with a dumpling lunch, lake ice, and acrobatics. Beihai Park (closed Mondays) moved to Saturday afternoon, and the National Museum became an optional swap. |
 | Your request: Great Wall on Sunday | You asked to move the Great Wall to Sunday, and the Temple of Heaven and Summer Palace to Tuesday. | Swapped them. Sunday avoids the Monday tour-group rush, and Tuesday gives the Kunming Lake ice two more days to freeze. Forbidden City backup is now Tuesday. |
+| Great Wall day: how much of the Ming Tombs? | Many families only want the Great Wall, and Dingling's bare underground vaults can bore a 10-year-old. | Added three options to discuss on Day 2: A (Mutianyu only, back ~14:30), B (Mutianyu + Sacred Way, back ~16:00, suggested), and C (full plan, back ~17:45). |
 | Layout | The `•` bullets ran together on GitHub, and the days used different formats. | Every day now has the same layout: at a glance, schedule, winter hours check, tickets & tips, and if plans change. Added a trip overview table and a shared packing list. |
 
 **Still to confirm closer to the date**, since these details change from year to year:
