@@ -203,6 +203,28 @@ Every stop has at least an hour to spare before its last entry, and all outdoor 
 | You're running late | Make sure you reach **Dingling before its 16:30 last entry**, and shorten the Sacred Way. |
 | Someone is too cold | Head back to the warm van. Dingling's underground chambers are also out of the wind. |
 
+#### 💬 To discuss as a family: how much of the Ming Tombs?
+
+Mutianyu plus the Ming Tombs is one of Beijing's standard Great Wall day tours, which is why the hotel and most operators sell it. Plenty of families do the Great Wall only, though. The tombs add about **2½ hours**, including roughly an hour of extra driving, to a day that starts at 07:00 in the cold.
+
+**Will the tombs work for a 10-year-old?**
+
+- **Sacred Way: good for kids.** It's an outdoor avenue of giant stone elephants, camels, lions, mythical beasts and stone officials. It's short, very photogenic, works well for a scavenger hunt, and is on the way back to the city.
+- **Dingling: hit or miss.** Going 27 m underground is exciting for a few minutes, but the vaults are mostly bare stone chambers (the treasures were moved to museums long ago), with a lot of stairs. After a cold morning on the Wall, many kids lose interest quickly.
+
+| Option | The day | Back at hotel | Best if… |
+|---|---|---|---|
+| **A. Mutianyu only** | Leave ~07:30, Wall and toboggan, lunch near the Wall, drive back | ~14:30 | You want a relaxed afternoon: rest, swim, or the ice rink if it's open. Ask the hotel for a lower price for the shorter day. |
+| **B. Mutianyu + Sacred Way** *(suggested)* | As planned, but after lunch drive straight to the Sacred Way (~30–45 min there), skipping Dingling | ~16:00 | You want the best of both for a kid, and to beat the Sunday evening traffic. |
+| **C. Full plan** | Mutianyu, Dingling, then the Sacred Way (the schedule above) | ~17:45 | Your son loves history, or the "underground palace" idea excites him. |
+
+**Things to weigh up:**
+
+- **Energy for Monday.** Options A and B leave more in the tank for the Lama Temple, hutongs and acrobatics.
+- **Cost.** The hotel's RMB 4,000 quote includes the tomb tickets and a long day. For A or B, ask whether the price drops. With an outside operator, a shorter day may also avoid overtime charges.
+- **Traffic.** Sunday traffic back into the city builds after 16:00. A and B get you home before it.
+- **Ask your son.** Show him photos of the stone animals and the underground palace and let him vote.
+
 ### Day 3: Monday, Dec 21 — Temples, Hutongs & Acrobats (Monday-Proof Day)
 
 > **At a glance:** Everything today stays open on Mondays: a working Tibetan Buddhist temple, a hutong rickshaw ride with a dumpling-making lunch, lake ice if it's frozen, and an evening acrobatics show.
@@ -363,6 +385,7 @@ Reviewed in November 2026. **The overall plan makes sense.** Every site falls on
 | Flights | You now arrive Friday evening and leave Wednesday on KE2052 (PEK T2, ~11:45). | Added Day 0 (arrival), a fifth full sightseeing day, and Day 5 (leave the hotel at 08:00). The days were rearranged in the next two rows. |
 | Monday crowds at the Wall | The concierge warned that the Great Wall gets busy on Mondays, because many tour groups go there while city museums are closed. Traveller reports back this up. | Moved the Great Wall off Monday (first to Tuesday, then to Sunday at your request; see the next row). Monday is now the Lama Temple, Houhai hutongs with a dumpling lunch, lake ice, and acrobatics. Beihai Park (closed Mondays) moved to Saturday afternoon, and the National Museum became an optional swap. |
 | Your request: Great Wall on Sunday | You asked to move the Great Wall to Sunday, and the Temple of Heaven and Summer Palace to Tuesday. | Swapped them. Sunday avoids the Monday tour-group rush, and Tuesday gives the Kunming Lake ice two more days to freeze. Forbidden City backup is now Tuesday. |
+| Great Wall day: how much of the Ming Tombs? | Many families only want the Great Wall, and Dingling's bare underground vaults can bore a 10-year-old. | Added three options to discuss on Day 2: A (Mutianyu only, back ~14:30), B (Mutianyu + Sacred Way, back ~16:00, suggested), and C (full plan, back ~17:45). |
 | Layout | The `•` bullets ran together on GitHub, and the days used different formats. | Every day now has the same layout: at a glance, schedule, winter hours check, tickets & tips, and if plans change. Added a trip overview table and a shared packing list. |
 
 **Still to confirm closer to the date**, since these details change from year to year:
