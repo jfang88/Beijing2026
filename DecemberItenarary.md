@@ -65,6 +65,38 @@ The hotel is in Oriental Plaza at 1 East Chang'an Avenue, at the south end of Wa
 - **Lip balm and moisturizer,** because Beijing's winter air is very dry.
 - **A phone power bank,** because cold drains batteries fast.
 
+## Where to eat
+
+The Grand Hyatt sits at the south end of Wangfujing, so several good restaurants are within a 5–15 minute walk. The plan mixes a couple of nights in the hotel, for the tired evenings, with local places for variety and value. **Have Peking duck once** (Saturday lunch below). At Made in China, order its other northern Chinese dishes, or move the duck there and switch Saturday lunch to Juqi.
+
+### Restaurants
+
+| Restaurant | Where | Why go | Watch out for | Links |
+|---|---|---|---|---|
+| **Made in China** | In the Grand Hyatt | One of Beijing's best-known hotel restaurants: wood-fired Peking duck and northern Chinese dishes, refurbished in 2024 | Hotel prices. Book ahead, and **pre-order the duck** (it takes a long time to roast). | [Robb Report](https://robbreport.com.sg/grand-hyatt-beijing/) · [Fodor's](https://www.fodors.com/world/asia/china/beijing/restaurants/reviews/made-in-china-587922) |
+| **Siji Minfu** (Dong'anmen branch) | Near the Forbidden City's east side, ~15 min walk or short drive | Often named the best-value duck; popular with locals | Waits of up to 90 minutes, especially at weekends. Have the hotel or guide reserve. | [Trvlogue review](https://www.trvlogue.com/en/siji-minfu-beijing-peking-duck) · [China Highlights](https://www.chinahighlights.com/beijing/best-roast-duck.htm) |
+| **Juqi** | 6th floor, APM Mall on Wangfujing, ~5–10 min walk | Beijing home-style cooking plus duck; relaxed and easy with kids | Closed between lunch and dinner (14:30–16:30) | [Trvlogue review](https://www.trvlogue.com/en/beijing-peking-duck-juqi) |
+| **Da Dong** (Wangfujing) | 6th floor, Donghua Gold Street shopping center, 301 Wangfujing Street | Upscale "modern" Peking duck with polished presentation | Confirm this branch is still open before going | [China Highlights](https://www.chinahighlights.com/beijing/best-roast-duck.htm) · [Travel China With Me](https://travelchinawith.me/china-travel-blog/peking-duck-restaurants-in-beijing/) |
+| **Quanjude** (Wangfujing) | Shuaifuyuan Hutong, off Wangfujing | The historic name in Peking duck | Touristy; the food is fine but not the best | [China Travel](https://www.chinatravel.com/beijing/best-peking-duck-restaurant) · [Trip.com guide](https://www.trip.com/guide/food/beijing-duck.html) |
+| **Oriental Plaza** (the hotel's mall) | Downstairs from the hotel | Quick, casual meals and food court for tired evenings | Most malls close around 22:00 | — |
+
+### Suggested meals, night by night
+
+| Day | Lunch | Dinner |
+|---|---|---|
+| Fri, Dec 18 | — | Light meal in the hotel or Oriental Plaza after landing |
+| Sat, Dec 19 | **Peking duck at Siji Minfu** (reserve), after Jingshan Park | **Juqi**, a short walk up Wangfujing |
+| Sun, Dec 20 | Farmhouse lunch near Mutianyu (trout, dumplings) | Easy night: hotel or Oriental Plaza, after the long Great Wall day |
+| Mon, Dec 21 | Dumpling-making lunch at a Houhai courtyard home | After the acrobatics: **Da Dong** (if open) or Oriental Plaza |
+| Tue, Dec 22 | Mongolian hot pot near the Summer Palace | **Farewell dinner at Made in China** (book ahead) |
+
+**Tips:**
+
+- **Reserve ahead** for Made in China, Siji Minfu, and Da Dong. Ask the hotel concierge to book; many places don't take English-language reservations directly.
+- **Pre-order the duck** wherever you have it. Most restaurants roast a limited number per day.
+- **Payment:** Most places take Alipay or WeChat Pay. Set these up before you fly, as the Day 0 tips suggest.
+- **Prices change,** and no reliable current prices were found for Made in China. Check menus when booking.
+
 ## Day-by-Day Itinerary
 
 ### Day 0: Friday, Dec 18 — Arrival
@@ -114,7 +146,7 @@ The hotel is in Oriental Plaza at 1 East Chang'an Avenue, at the south end of Wa
 | 08:30–12:00 | 🏯 Forbidden City | Walk the central axis from south to north. Don't miss the **Hall of Clocks and Watches**: its 18th-century mechanical clocks are a hit with a 10-year-old. |
 | 12:00–12:30 | ⛰️ Jingshan Park | Leave by the north gate (Gate of Divine Might) and cross the road. A 10-minute climb up the central hill gives a panoramic view of the golden palace roofs, dusted with snow if you're lucky. |
 | 12:30–12:45 | 🚐 Drive | Your driver picks you up at the Jingshan Park gate. |
-| 12:45–14:00 | 🍽️ Lunch | Peking duck at a warm indoor restaurant. |
+| 12:45–14:00 | 🍽️ Lunch | Peking duck at **Siji Minfu** (Dong'anmen branch, near the Forbidden City; reserve ahead). See [Where to eat](#where-to-eat). |
 | 14:00–14:15 | 🚐 Drive | To Beihai Park's east gate, next to Jingshan Park. |
 | 14:15–16:30 | 🌳 Beihai Park | Climb Jade Flower Island to the **White Dagoba** for views back over the Forbidden City. If the lake is frozen and the rink is open, try skating or ice bikes. |
 | 16:30–17:00 | 🚐 Drive | About 4 km back to the hotel (15–20 min). |
@@ -386,6 +418,7 @@ Reviewed in November 2026. **The overall plan makes sense.** Every site falls on
 | Monday crowds at the Wall | The concierge warned that the Great Wall gets busy on Mondays, because many tour groups go there while city museums are closed. Traveller reports back this up. | Moved the Great Wall off Monday (first to Tuesday, then to Sunday at your request; see the next row). Monday is now the Lama Temple, Houhai hutongs with a dumpling lunch, lake ice, and acrobatics. Beihai Park (closed Mondays) moved to Saturday afternoon, and the National Museum became an optional swap. |
 | Your request: Great Wall on Sunday | You asked to move the Great Wall to Sunday, and the Temple of Heaven and Summer Palace to Tuesday. | Swapped them. Sunday avoids the Monday tour-group rush, and Tuesday gives the Kunming Lake ice two more days to freeze. Forbidden City backup is now Tuesday. |
 | Great Wall day: how much of the Ming Tombs? | Many families only want the Great Wall, and Dingling's bare underground vaults can bore a 10-year-old. | Added three options to discuss on Day 2: A (Mutianyu only, back ~14:30), B (Mutianyu + Sacred Way, back ~16:00, suggested), and C (full plan, back ~17:45). |
+| Meals | The plan had lunches but no dinner suggestions. | Added a "Where to eat" section with nearby restaurants, links, and a meal plan for each day, including Made in China at the hotel. |
 | Layout | The `•` bullets ran together on GitHub, and the days used different formats. | Every day now has the same layout: at a glance, schedule, winter hours check, tickets & tips, and if plans change. Added a trip overview table and a shared packing list. |
 
 **Still to confirm closer to the date**, since these details change from year to year:
@@ -411,6 +444,7 @@ Reviewed in November 2026. **The overall plan makes sense.** Every site falls on
 - Ming Tombs winter hours: [China Xian Tour – Ming Tombs](https://www.chinaxiantour.com/beijing-attractions/ming-tombs); [Travel China – Ming Tombs](https://www.chinatravel.com/beijing/attraction/ming-tombs)
 - Forbidden City booking rules: [Beijing government – Palace Museum visiting guidelines](https://english.beijing.gov.cn/latest/news/202306/t20230629_3150036.html)
 - Hotel location: [Visit Beijing – Grand Hyatt Beijing](https://r.visitbeijing.com.cn/hotel/278)
+- Restaurants: [Robb Report – Grand Hyatt Beijing](https://robbreport.com.sg/grand-hyatt-beijing/); [Fodor's – Made in China](https://www.fodors.com/world/asia/china/beijing/restaurants/reviews/made-in-china-587922); [Trvlogue – Siji Minfu](https://www.trvlogue.com/en/siji-minfu-beijing-peking-duck); [Trvlogue – Juqi](https://www.trvlogue.com/en/beijing-peking-duck-juqi); [China Highlights – best roast duck](https://www.chinahighlights.com/beijing/best-roast-duck.htm); [Travel China With Me – Peking duck restaurants](https://travelchinawith.me/china-travel-blog/peking-duck-restaurants-in-beijing/); [China Travel – best Peking duck restaurants](https://www.chinatravel.com/beijing/best-peking-duck-restaurant); [Trip.com – Beijing duck guide](https://www.trip.com/guide/food/beijing-duck.html)
 - Weekend traffic and crowds: [Travel China With Me – best time to visit Beijing](https://travelchinawith.me/china-destinations/beijing/best-time-to-visit-beijing/); [That's Beijing – expect more traffic](https://www.thatsmags.com/beijing/post/35202/expect-more-traffic-in-these-parts-of-beijing)
 - Monday crowds at Mutianyu: [Trip.com – Mutianyu traveller tips](https://ae.trip.com/moments/poi-mutianyu-great-wall-75609); [Trip.com – Mutianyu moments](https://www.trip.com/t/RpfXhMg4qT2)
 - Lama Temple hours and booking: [Wander in China – Lama Temple](https://www.wanderinchina.com/en/destinations/beijing/lama-temple/); [China Travel – Lama Temple](https://www.chinatravel.com/beijing/attraction/lama-temple); [Visit Beijing – Lama Temple](https://r.visitbeijing.com.cn/attraction/715)
