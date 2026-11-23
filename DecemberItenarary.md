@@ -235,7 +235,17 @@ Every stop has at least an hour to spare before its last entry, and all outdoor 
 | You're running late | Make sure you reach **Dingling before its 16:30 last entry**, and shorten the Sacred Way. |
 | Someone is too cold | Head back to the warm van. Dingling's underground chambers are also out of the wind. |
 
-#### 💬 To discuss as a family: how much of the Ming Tombs?
+#### ✅ Decided: the full day (Great Wall, Dingling, and the Sacred Way)
+
+The family chose **option C**: Mutianyu, the Dingling underground palace, and the Sacred Way walk. The schedule above is the plan.
+
+- **Keep the 07:00 start.** You can leave at 08:00 instead: you'd reach Mutianyu around 09:15–09:30, still make Dingling by 14:00 and the Sacred Way by 15:30, and be back around **17:45–18:00**. But you'd lose the 30-minute buffer and arrive after the Wall gets busier.
+- **It can't finish by 16:00.** Dingling adds about 1½ hours. A 16:00 return only works without Dingling (options A or B below).
+- **Sunday evening traffic** back into the city builds after 16:00, so expect the longer end of the 1–1.5 hour drive home.
+- **The hotel's RMB 4,000 quote already includes the tomb tickets**, so this is the option the price was for. Confirm a 07:00 pickup and no shopping stops.
+- **Making Dingling fun for a 10-year-old:** give him a job, like counting the steps down, spotting the marble thrones, or finding the emperor's name. Keep it short (45–60 minutes), then let him run between the stone animals on the Sacred Way.
+
+##### The options we considered
 
 Mutianyu plus the Ming Tombs is one of Beijing's standard Great Wall day tours, which is why the hotel and most operators sell it. Plenty of families do the Great Wall only, though. The tombs add about **2½ hours**, including roughly an hour of extra driving, to a day that starts at 07:00 in the cold.
 
@@ -247,8 +257,8 @@ Mutianyu plus the Ming Tombs is one of Beijing's standard Great Wall day tours, 
 | Option | The day | Back at hotel | Best if… |
 |---|---|---|---|
 | **A. Mutianyu only** | Leave ~07:30, Wall and toboggan, lunch near the Wall, drive back | ~14:30 | You want a relaxed afternoon: rest, swim, or the ice rink if it's open. Ask the hotel for a lower price for the shorter day. |
-| **B. Mutianyu + Sacred Way** *(suggested)* | As planned, but after lunch drive straight to the Sacred Way (~30–45 min there), skipping Dingling | ~16:00 | You want the best of both for a kid, and to beat the Sunday evening traffic. |
-| **C. Full plan** | Mutianyu, Dingling, then the Sacred Way (the schedule above) | ~17:45 | Your son loves history, or the "underground palace" idea excites him. |
+| **B. Mutianyu + Sacred Way** | As planned, but after lunch drive straight to the Sacred Way (~30–45 min there), skipping Dingling | ~16:00 | You want the best of both for a kid, and to beat the Sunday evening traffic. |
+| **C. Full plan** ✅ *chosen* | Mutianyu, Dingling, then the Sacred Way (the schedule above) | ~17:45 | Your son loves history, or the "underground palace" idea excites him. |
 
 **Things to weigh up:**
 
@@ -419,6 +429,7 @@ Reviewed in November 2026. **The overall plan makes sense.** Every site falls on
 | Your request: Great Wall on Sunday | You asked to move the Great Wall to Sunday, and the Temple of Heaven and Summer Palace to Tuesday. | Swapped them. Sunday avoids the Monday tour-group rush, and Tuesday gives the Kunming Lake ice two more days to freeze. Forbidden City backup is now Tuesday. |
 | Great Wall day: how much of the Ming Tombs? | Many families only want the Great Wall, and Dingling's bare underground vaults can bore a 10-year-old. | Added three options to discuss on Day 2: A (Mutianyu only, back ~14:30), B (Mutianyu + Sacred Way, back ~16:00, suggested), and C (full plan, back ~17:45). |
 | Meals | The plan had lunches but no dinner suggestions. | Added a "Where to eat" section with nearby restaurants, links, and a meal plan for each day, including Made in China at the hotel. |
+| Great Wall day: decision | The family chose the full day: the Great Wall, the Dingling underground tomb, and the Sacred Way. | Marked option C as decided. Kept the 07:00 start (an 08:00 start returns ~17:45–18:00 with no buffer). A 16:00 return isn't possible with Dingling. |
 | Layout | The `•` bullets ran together on GitHub, and the days used different formats. | Every day now has the same layout: at a glance, schedule, winter hours check, tickets & tips, and if plans change. Added a trip overview table and a shared packing list. |
 
 **Still to confirm closer to the date**, since these details change from year to year:

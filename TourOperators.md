@@ -23,6 +23,8 @@ The hotel has quoted two private day tours. Each costs **RMB 4,000 for all three
 4. A **licensed English-speaking guide**, **no shopping stops**, and a **heated 7-seater**.
 5. That they'll buy the cable car up and toboggan down tickets for you (you pay the ~¥420), and check that **Dec 20** isn't the cable car's annual maintenance day.
 
+**Decided:** the full Great Wall day (Mutianyu, Dingling, and the Sacred Way), which matches the hotel's RMB 4,000 quote including tomb tickets. Confirm a **07:00 pickup**.
+
 **If you shorten the Great Wall day** (see the family options under Day 2 in the [itinerary](DecemberItenarary.md)):
 
 - **Mutianyu only** (back ~14:30) or **Mutianyu + Sacred Way** (back ~16:00, skipping Dingling): ask the hotel for a lower price. The RMB 4,000 quote includes the tomb tickets (~¥120 for Dingling) and an ~11-hour day.
