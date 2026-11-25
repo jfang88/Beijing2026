@@ -327,6 +327,44 @@ Mutianyu plus the Ming Tombs is one of Beijing's standard Great Wall day tours, 
 | Everyone is tired | Skip the ice, rest longer at the hotel, and keep the show. |
 | The Lama Temple is fully booked | Swap it for a longer hutong morning, or Jingshan Park (open on Mondays) if you missed it on Saturday. |
 
+#### 🎢 Alternative Monday: Universal Studios Beijing
+
+Universal Studios Beijing, in Tongzhou about 30 km east of the hotel, is **open on Mondays**. That makes it a good fit for the day most city museums close. If you choose it, it replaces the Monday plan above.
+
+| Time | Where | What to do |
+|---|---|---|
+| **08:15** | Grand Hyatt | Car or taxi east to Universal (~45–60 min, about RMB 100–120 by taxi). Alternatively, metro Line 1/Batong line to **Universal Resort** station (~70 min, a few RMB). |
+| 09:00–09:30 | 🎟️ Entrance | Security and bag check. Be at the gates **before opening**. Exits B, C, or D from the metro, then a 7-minute walk. |
+| Opening–11:30 | 🧙 **The Wizarding World of Harry Potter** | Head straight here, as it gets the longest queues. Ride **Harry Potter and the Forbidden Journey**, then **Flight of the Hippogriff** (family coaster). Explore Hogsmeade. |
+| 11:30–12:30 | 🦖 **Jurassic World Isla Nublar** | **Jurassic World Adventure**. |
+| 12:30–13:30 | 🍽️ Lunch | Three Broomsticks (Hogsmeade) or a quick-service restaurant in the park. Eat at 11:30 or 13:30 to dodge the peak. |
+| 13:30–15:30 | 🤖 **Transformers: The Metrobase** | **Transformers: Battle for the AllSpark** (3D ride) and, if he's tall enough and keen, **Decepticoaster** (the park's most intense coaster). |
+| 15:30–17:00 | 🐼 **Kung Fu Panda Land of Awesomeness** · 🍌 **Minion Land** · 🎬 **Hollywood** | **Kung Fu Panda: Journey of the Dragon Warrior**, **Despicable Me Minion Mayhem**, and **Lights, Camera, Action!** Check show times for **WaterWorld** and any winter-holiday parade or shows. |
+| 17:00–18:00 | 🌃 Evening | Hogsmeade lit up after dark, then dinner at **Universal CityWalk** just outside the park. |
+| ~18:30 | 🚐 Back to the hotel | ~45–60 min. Monday evening traffic heading into the city is lighter than outbound. |
+
+**Tickets (book ahead):**
+
+- **Buy a dated 1-day ticket** for Mon, Dec 21 on the official Universal Beijing Resort app, website, WeChat/Alipay mini-program, or Trip.com/Klook. Use **passports**; tickets are in your real name.
+- **Child tickets cover ages 3–11**, so your son gets the discounted child price. Prices vary by date. One 2025 guide lists adults from about RMB 528 (regular) to 748+ (peak), and a child around RMB 396 on regular days.
+- **Universal Express:** a Monday the week before Christmas should be quieter than a weekend, but holiday crowds are hard to predict. **Express Set 5** (priority on five rides) is the best value. Third-party guides put Express at roughly RMB 300–600+ per person, depending on the date.
+- **Rough cost for 3:** admission ~RMB 1,300–2,000, plus Express Set 5 ~RMB 900–1,800, plus food ~RMB 500–800 and transport ~RMB 250. That's **about RMB 2,000–4,800** depending on Express.
+
+**Heights and winter:**
+
+- **Check your son's height against the official rider guide** before you go. Third-party lists give roughly **122 cm** for the Forbidden Journey, **~100 cm** for Jurassic World Adventure, and **~132 cm** for Decepticoaster. Use the [official Guide for Rider Safety and Accessibility](https://www.universalbeijingresort.com/sites/default/files/doc_fds3hjk3_sdf8n3io_120hfio/2022-06/Guide-for-Rider-Safety-and-Accessibility-EN.pdf).
+- **Winter:** the park may adjust hours for selected rides and attractions in cold or windy weather. Outdoor coasters can pause. Many rides are indoor, so dress warmly for queues and walking between areas.
+- **Hours:** sources disagree for December Mondays: roughly 10:00–19:00 or 09:00–21:00, with a "Winter Holiday" season from mid-November to early January. **Check the official park calendar** for Dec 21 and adjust the start time.
+
+**If you pick Universal for Monday, the city plan moves like this:**
+
+| Monday city activity | Where it goes |
+|---|---|
+| Houhai hutong rickshaw + dumpling lunch | **Saturday afternoon**, instead of Beihai Park (Houhai is right next to Beihai) |
+| Chinese acrobatics show | **Saturday or Tuesday evening** |
+| Lama Temple | Drop it, or swap it into Tuesday morning if you shorten the Temple of Heaven |
+| Lake ice (Shichahai) | Saturday afternoon with the hutongs, if the ice is open |
+
 ### Day 4: Tuesday, Dec 22 — Imperial Parks & Lake Ice
 
 > **At a glance:** The Temple of Heaven in the morning, hot pot for lunch, and the Summer Palace in the afternoon.
@@ -447,6 +485,7 @@ Reviewed in November 2026. **The overall plan makes sense.** Every site falls on
 | Great Wall day: how much of the Ming Tombs? | Many families only want the Great Wall, and Dingling's bare underground vaults can bore a 10-year-old. | Added three options to discuss on Day 2: A (Mutianyu only, back ~14:30), B (Mutianyu + Sacred Way, back ~16:00, suggested), and C (full plan, back ~17:45). |
 | Meals | The plan had lunches but no dinner suggestions. | Added a "Where to eat" section with nearby restaurants, links, and a meal plan for each day, including Made in China at the hotel. |
 | Great Wall day: decision | The family chose the full day: the Great Wall, the Dingling underground tomb, and the Sacred Way. | Marked option C as decided. The hotel's pickup is 08:00, so the schedule now starts at 08:00 and returns ~17:45–18:00 with no buffer. A 16:00 return isn't possible with Dingling. Added the day's cost: about RMB 4,700–4,900 including lifts and lunch. |
+| Monday alternative: Universal Studios Beijing | You asked for a Universal Studios plan for Monday. | Added an alternative Monday: rope drop at Harry Potter, Jurassic, Transformers, Kung Fu Panda, and Minions, then CityWalk dinner. Includes tickets (child price ages 3–11, Express Set 5), costs, height checks, winter notes, and where the Monday city activities move. |
 | Layout | The `•` bullets ran together on GitHub, and the days used different formats. | Every day now has the same layout: at a glance, schedule, winter hours check, tickets & tips, and if plans change. Added a trip overview table and a shared packing list. |
 
 **Still to confirm closer to the date**, since these details change from year to year:
@@ -478,6 +517,7 @@ Reviewed in November 2026. **The overall plan makes sense.** Every site falls on
 - Monday crowds at Mutianyu: [Trip.com – Mutianyu traveller tips](https://ae.trip.com/moments/poi-mutianyu-great-wall-75609); [Trip.com – Mutianyu moments](https://www.trip.com/t/RpfXhMg4qT2)
 - Lama Temple hours and booking: [Wander in China – Lama Temple](https://www.wanderinchina.com/en/destinations/beijing/lama-temple/); [China Travel – Lama Temple](https://www.chinatravel.com/beijing/attraction/lama-temple); [Visit Beijing – Lama Temple](https://r.visitbeijing.com.cn/attraction/715)
 - KE2052 schedule (PEK T2 ~11:45 → Gimpo ~15:00): [Trip.com – KE2052 status](https://www.trip.com/flights/status-ke2052/); [Avionio – KE2052](https://www.avionio.com/en/flight/ke-2052)
+- Universal Studios Beijing: [Official tickets & offers](https://www.universalbeijingresort.com/en/tickets-offers); [Official getting here](https://www.universalbeijingresort.com/en/ubrbasepage/ruhedaoda); [Official rider safety guide (PDF)](https://www.universalbeijingresort.com/sites/default/files/doc_fds3hjk3_sdf8n3io_120hfio/2022-06/Guide-for-Rider-Safety-and-Accessibility-EN.pdf); [Beijing government – Winter Holiday 2025](https://english.beijing.gov.cn/consuminginbeijing/onlyinbeijing/universalbeijingresort/updatesofuniversalbeijingresort/202511/t20251108_4266170.html); [Trip.com – Universal Studios Beijing tickets](https://www.trip.com/guide/attraction/universal-studios-beijing-tickets.html); [Theme Park Insider – visitors guide](https://themeparkinsider.com/reviews/universal-studios-beijing)
 - Beihai Park winter hours: [Beijing government – Beihai Park](https://english.beijing.gov.cn/specials/parktours/guidevisitors/beihaipark/)
 - Chaoyang Theatre acrobatics: [China Highlights – Chaoyang Acrobatics Theater](https://chinahighlights.com/beijing/attraction/chaoyang-acrobatics-theater.htm); [China Beijing Private Tour – acrobatic show tickets](https://chinabeijingprivatetour.com/tickets/show/beijing-acrobatic-show-ticket-booking.htm)
 - I calculated sunrise and sunset for each date, and estimated distances from the hotel using map coordinates. Road distances are approximate.
