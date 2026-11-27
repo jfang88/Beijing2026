@@ -17,13 +17,13 @@ The hotel has quoted two private day tours. Each costs **RMB 4,000 for all three
 
 **Before booking the Great Wall tour, confirm:**
 
-1. **A 07:00 pickup, not 09:00.** Leaving at 09:00 puts you at the Wall around 10:30, and at the Ming Tombs too late to be comfortable before the toboggan's likely ~15:30 last ticket and Dingling's 16:30 last entry.
+1. **An 08:00 pickup (agreed), not 09:00.** Leaving at 09:00 puts you at the Wall around 10:30, and at the Ming Tombs too late to be comfortable before Dingling's 16:30 last entry and sunset.
 2. Whether the **Mutianyu shuttle bus** is included.
-3. **No overtime charge** for a day of about 07:00–17:45 and 180 km.
+3. **No overtime charge** for a day of about 08:00–18:00 and 180 km.
 4. A **licensed English-speaking guide**, **no shopping stops**, and a **heated 7-seater**.
 5. That they'll buy the cable car up and toboggan down tickets for you (you pay the ~¥420), and check that **Dec 20** isn't the cable car's annual maintenance day.
 
-**Decided:** the full Great Wall day (Mutianyu, Dingling, and the Sacred Way), which matches the hotel's RMB 4,000 quote including tomb tickets. Confirm a **07:00 pickup**.
+**Decided:** the full Great Wall day (Mutianyu, Dingling, and the Sacred Way), which matches the hotel's RMB 4,000 quote including tomb tickets. The hotel's pickup is **08:00**. You pay extra for lunch and the cable car up + toboggan down: about **RMB 4,700–4,900 for the day in total**.
 
 **If you shorten the Great Wall day** (see the family options under Day 2 in the [itinerary](DecemberItenarary.md)):
 
@@ -32,7 +32,7 @@ The hotel has quoted two private day tours. Each costs **RMB 4,000 for all three
 
 **Suggested way to use the hotel:**
 
-- **Sun (Great Wall):** Book the hotel's tour, with the 07:00 start.
+- **Sun (Great Wall):** Book the hotel's tour, with the 08:00 pickup.
 - **Sat (Forbidden City):** Book a guide only. It's a walk from the hotel, for about RMB 2,000 all in.
 - **Tue (Temple of Heaven + Summer Palace):** Ask the hotel for a price on just these two, and compare it with an outside operator (about RMB 2,400–3,600).
 - If you'd rather use the hotel's one-day city tour, do it on **Saturday or Tuesday**, and use the freed-up day for rest, the National Museum, or the ice rink.
@@ -79,7 +79,7 @@ They may do the Forbidden City first and the Temple of Heaven after lunch. The d
 2. **Drop one site,** ideally the Summer Palace, which is the farthest and gets the worst light. Three sites in a day is comfortable; four is a sprint.
 3. **Ask for their actual timetable,** with minutes at each stop, and whether tickets (including the Clock Gallery) are included.
 
-**Recommendation:** Split it as our plan does. Do the Forbidden City on Saturday with a guide, on foot from the hotel, and the Temple of Heaven and Summer Palace on Tuesday. Use the hotel for the Great Wall day on Sunday, with a 07:00 start.
+**Recommendation:** Split it as our plan does. Do the Forbidden City on Saturday with a guide, on foot from the hotel, and the Temple of Heaven and Summer Palace on Tuesday. Use the hotel for the Great Wall day on Sunday, with the 08:00 pickup.
 
 ## The short answer
 
@@ -151,7 +151,7 @@ How the DIY estimates were built:
 ## Questions to ask every operator, including the hotel
 
 1. **What exactly is included?** Entry tickets (including Mutianyu's cable car, toboggan and shuttle, and the Clock Gallery), lunch, tolls and parking, and water.
-2. **How many hours and kilometers are included?** The Great Wall day (Sun) runs about 07:00–17:45 and 180 km.
+2. **How many hours and kilometers are included?** The Great Wall day (Sun) runs about 08:00–18:00 and 180 km.
 3. **Is it a licensed English-speaking guide,** and can you keep the same guide for every day?
 4. **Will they put "no shopping stops" in writing?** That means no detours to jade, silk or tea shops.
 5. **What vehicle?** Ask for a heated 7-seater such as a Buick GL8, and a booster seat if you want one for your son.

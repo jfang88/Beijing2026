@@ -97,6 +97,23 @@ The Grand Hyatt sits at the south end of Wangfujing, so several good restaurants
 - **Payment:** Most places take Alipay or WeChat Pay. Set these up before you fly, as the Day 0 tips suggest.
 - **Prices change,** and no reliable current prices were found for Made in China. Check menus when booking.
 
+## Money and payments
+
+Almost everyone in Beijing pays by phone, but you don't need a Chinese ID or bank account.
+
+- **Cash: a small backup only.** Shops are legally required to accept cash. Bring **RMB 500–1,000 in small notes** for the family, for snacks, tips, or a vendor whose phone payment fails. You can withdraw more at Bank of China or ICBC cash machines with an overseas card.
+- **AlipayHK (easiest if you already use it in Hong Kong).** It generally works in mainland China wherever Alipay is accepted, charging you in HKD. Check that mainland payment is switched on in the app before you travel, and test a small payment on arrival. (Not confirmed in current sources, so keep a backup.)
+- **Main Alipay app and WeChat Pay (no Chinese ID needed).**
+  1. Download **Alipay** and/or **WeChat** and sign up with your Hong Kong or overseas phone number.
+  2. Add a **Visa or Mastercard** credit card.
+  3. Verify your identity with your **passport** to unlock higher limits.
+  4. Pay by scanning the shop's QR code, or let them scan yours.
+- **Limits and fees** are set by Alipay and WeChat and change; check in the app. Payments over about RMB 200 may carry a small foreign-card fee.
+- **Avoid declines:** tell your card issuer you're travelling, and set up **both Alipay and WeChat Pay** with **two different cards** on both your phone and your wife's.
+- **Hotel and Made in China** take international credit cards directly. Your son doesn't need his own wallet.
+
+**Plan:** set up the apps before you fly, test a small payment at Oriental Plaza on Friday evening, and keep RMB 500–1,000 cash as a backup.
+
 ## Day-by-Day Itinerary
 
 ### Day 0: Friday, Dec 18 — Arrival
@@ -123,7 +140,7 @@ The Grand Hyatt sits at the south end of Wangfujing, so several good restaurants
 #### Tickets & tips
 
 - **Book the airport pickup** and give the driver your flight number so they can track any delay.
-- **Before you fly,** set up Alipay or WeChat Pay with an international card, get a China eSIM or roaming plan, and download a translation app.
+- **Before you fly,** set up your phone payments (see [Money and payments](#money-and-payments)), get a China eSIM or roaming plan, and download a translation app.
 
 #### If plans change
 
@@ -181,47 +198,47 @@ Every stop fits easily. The hours are from Beijing's official winter schedule (N
 
 ### Day 2: Sunday, Dec 20 — Great Wall & Ming Tombs
 
-> **At a glance:** Kept off Monday, when many tour groups head for the Wall because city museums are closed. Mutianyu in the morning, lunch near the Wall, and the Ming Tombs in the afternoon. You'll be back at the hotel around 17:30–18:00.
+> **At a glance:** Kept off Monday, when many tour groups head for the Wall because city museums are closed. **Hotel pickup at 08:00.** Mutianyu in the morning, lunch near the Wall, and the Ming Tombs in the afternoon. You'll be back at the hotel around 17:45–18:00.
 > About **180 km and 4 hours of driving** in total. Sunrise is **07:32** and sunset is **16:52**.
 
 #### Schedule
 
 | Time | Where | What to do |
 |---|---|---|
-| **07:00** | Grand Hyatt | Leave in the heated van. It's still dark until about 07:30, so ask the hotel for an early breakfast or a breakfast box. |
-| 07:00–08:30 | 🚐 Drive | About 75 km (~1.5 h) northeast to Mutianyu. |
-| 08:30–09:00 | Mutianyu visitor center | Buy tickets and use the restrooms. Walk through the shopping street to the shuttle bus, which takes about 10 minutes up to the lift area. |
-| 09:00–09:15 | 🚡 Cable car | Ride the enclosed **cable car up to Tower 14**. |
-| 09:15–10:30 | 🧱 On the Wall | Walk from **Tower 14 to Tower 6**: about 1 km, with some steep stairs. Allow 45–75 minutes with photo stops. |
-| 10:30–11:15 | 🛷 Toboggan | Ride the **toboggan down from Tower 6**, then take the shuttle bus back to the visitor center. |
-| 11:15–11:45 | Buffer | Spare time for queues, warming up, or the shopping street. |
-| 11:45–13:00 | 🍽️ Lunch | A heated farmhouse restaurant near the Wall, such as Xin Shuang Quan (confirm it's open in winter). Try the fresh mountain trout and the dumplings. |
-| 13:00–14:00 | 🚐 Drive | About 50–60 km (~1 h) west to the Ming Tombs. |
+| **08:00** | Grand Hyatt | **Hotel pickup** in the heated van. Have an early breakfast; sunrise is about 07:30. |
+| 08:00–09:30 | 🚐 Drive | About 75 km (~1.5 h) northeast to Mutianyu. Weekend mornings have no commuter rush. |
+| 09:30–10:00 | Mutianyu visitor center | Buy the lift tickets, use the restrooms, and walk through the shopping street to the shuttle bus (~10 min) up to the lift area. |
+| 10:00–10:15 | 🚡 Cable car | Ride the enclosed **cable car up to Tower 14**. |
+| 10:15–11:30 | 🧱 On the Wall | Walk from **Tower 14 to Tower 6**: about 1 km, with some steep stairs. Allow 45–75 minutes with photo stops. |
+| 11:30–12:00 | 🛷 Toboggan | Ride the **toboggan down from Tower 6**, then take the shuttle bus back to the visitor center. |
+| 12:00–13:00 | 🍽️ Lunch | A heated farmhouse restaurant near the Wall, such as Xin Shuang Quan (confirm it's open in winter). Try the fresh mountain trout and the dumplings. **Keep lunch to an hour.** |
+| 13:00–14:00 | 🚐 Drive | About 50–60 km (~1 to 1¼ h) west to the Ming Tombs, mostly country roads. |
 | 14:00–15:15 | Dingling Tomb | Go about 27 m underground into the marble vaults of the Underground Palace. In late December it should be quiet. |
 | 15:15–15:30 | 🚐 Drive | About 7 km south to the Sacred Way. |
 | 15:30–16:20 | The Sacred Way | Give your son a photo scavenger hunt among the 12 pairs of stone animals and 6 pairs of officials and generals, in low golden light. If the driver can meet you at the far end, you only walk the avenue one way (about 1 km). |
-| 16:20–17:45 | 🚐 Drive | About 45–50 km (1–1.5 h) back to the hotel. Sunday evening traffic back into the city can build after 16:00. |
+| 16:20–17:45/18:00 | 🚐 Drive | About 45–50 km (1–1.5 h) back to the hotel. Sunday evening traffic back into the city builds after 16:00. |
 
 #### Winter hours check
 
-Every stop has at least an hour to spare before its last entry, and all outdoor sightseeing ends before sunset. These are winter hours (mid-November to mid-March) published by ticketing and travel sites. Ask the agency to confirm them for 2026.
+With the 08:00 pickup there's no spare buffer in the schedule, but every stop still has at least an hour to spare before its last entry, and all outdoor sightseeing ends before sunset. These are winter hours (mid-November to mid-March) published by ticketing and travel sites. Ask the agency to confirm them for 2026.
 
 | Site | Winter hours | Last entry | Our time there | Slack |
 |---|---|---|---|---|
-| Mutianyu cable car | 08:00–17:00 | Sales stop ~1 h before closing | 09:00 | ✅ Plenty |
-| Mutianyu chairlift & toboggan | 08:30–16:30 | Probably ~15:30 | ~10:30 | ✅ ~5 h |
+| Mutianyu cable car | 08:00–17:00 | Sales stop ~1 h before closing | 10:00 | ✅ Plenty |
+| Mutianyu chairlift & toboggan | 08:30–16:30 | Probably ~15:30 | ~11:30 | ✅ ~4 h |
 | Dingling (Ming Tombs) | 08:30–17:00 | 16:30 | 14:00–15:15 | ✅ 75 min |
 | Sacred Way | 08:30–17:00 | 16:30 | 15:30–16:20 | ✅ 60 min |
-| Daylight | Sunrise 07:32, sunset 16:52 | Usable light until ~17:20 | Outdoors 09:00–16:20 | ✅ Done before sunset |
+| Daylight | Sunrise 07:32, sunset 16:52 | Usable light until ~17:20 | Outdoors 10:00–16:20 | ✅ Done before sunset |
 
 - **Mutianyu has to come first.** The toboggan closes at 16:30 in winter, and ticket sales probably stop around 15:30. With the original afternoon plan (Mutianyu 13:30–16:30), you would have reached Tower 6 right around that cutoff.
-- **The downside is the cold.** 09:00–10:30 on the Wall is the coldest part of the day: well below freezing, and colder with wind chill. Dress for it, and use the van as a warm base between stops.
+- **The downside is the cold.** 10:00–11:30 on the Wall is the coldest part of the day: well below freezing, and colder with wind chill. Dress for it, and use the van as a warm base between stops.
 
 #### Tickets & tips
 
 - The **cable car** (Tower 14) and the **chairlift/toboggan** (Tower 6) are run by **two different companies**, and their tickets aren't interchangeable.
 - Buy a **one-way cable car ticket up** and a **one-way toboggan ticket down**. Don't buy a round trip on either. Some 2026 price lists show these as one combined "cable car up + toboggan down" ticket for about ¥140.
 - The toboggan is a one-person sled on a metal track, with a hand lever to control the speed. Check the age and height rules for your son before you go.
+- **Cost for the day (3 people):** the hotel's RMB 4,000 tour includes the car, driver, guide, and entry tickets (Mutianyu, Dingling, Sacred Way). You pay extra for the **cable car up + toboggan down** (~¥140 each, ~¥420), **lunch** (~¥300–500), the Mutianyu shuttle bus if not included (~¥45), and a tip (RMB 100–200). That's **about RMB 4,700–4,900 in total**. Ask the guide to buy the lift tickets at the ticket office; bring passports (tickets are in your real name).
 - Since June 2026, riders aged over 60 may not be allowed on the toboggan, and staff may check ID. If that applies to anyone in your group, they can take the chairlift down from Tower 6 instead.
 
 #### If plans change
@@ -231,7 +248,7 @@ Every stop has at least an hour to spare before its last entry, and all outdoor 
 | The toboggan is closed (snow, ice, rain, or wind) | Take the chairlift down from Tower 6. It's the same company, and you can buy the ticket there. If that's closed too, the stairs down take roughly 30 minutes. |
 | The cable car is closed (for example, annual maintenance) | Take the chairlift up to Tower 6, walk a shorter stretch, and come back to Tower 6 for the toboggan or chairlift down. |
 | Mutianyu is closed or the weather is bad | Go to **Badaling** (cable cars) or **Juyongguan** (no lift) instead. Both are near the Ming Tombs, so the afternoon stays the same. See [GreatWallSections.md](GreatWallSections.md). |
-| The Wall is busier than expected (weekend local visitors) | Walk away from the cable car top station; the stretch toward Tower 6 thins out quickly. The 08:30 arrival is your best defence. |
+| The Wall is busier than expected (weekend local visitors) | Walk away from the cable car top station; the stretch toward Tower 6 thins out quickly. With a ~09:30 arrival, expect a short wait for the cable car. |
 | You're running late | Make sure you reach **Dingling before its 16:30 last entry**, and shorten the Sacred Way. |
 | Someone is too cold | Head back to the warm van. Dingling's underground chambers are also out of the wind. |
 
@@ -239,15 +256,15 @@ Every stop has at least an hour to spare before its last entry, and all outdoor 
 
 The family chose **option C**: Mutianyu, the Dingling underground palace, and the Sacred Way walk. The schedule above is the plan.
 
-- **Keep the 07:00 start.** You can leave at 08:00 instead: you'd reach Mutianyu around 09:15–09:30, still make Dingling by 14:00 and the Sacred Way by 15:30, and be back around **17:45–18:00**. But you'd lose the 30-minute buffer and arrive after the Wall gets busier.
+- **Hotel pickup is 08:00** (agreed with the hotel). You reach Mutianyu around 09:30, Dingling by 14:00, and the Sacred Way by 15:30, and you're back around **17:45–18:00**. There's no spare buffer, so **keep lunch to an hour**, and if you're running late, protect Dingling's 16:30 last entry and shorten the Sacred Way.
 - **It can't finish by 16:00.** Dingling adds about 1½ hours. A 16:00 return only works without Dingling (options A or B below).
 - **Sunday evening traffic** back into the city builds after 16:00, so expect the longer end of the 1–1.5 hour drive home.
-- **The hotel's RMB 4,000 quote already includes the tomb tickets**, so this is the option the price was for. Confirm a 07:00 pickup and no shopping stops.
+- **The hotel's RMB 4,000 quote already includes the tomb tickets**, so this is the option the price was for. Lunch and the cable car/toboggan are extra (about RMB 4,700–4,900 for the day in total). Confirm no shopping stops.
 - **Making Dingling fun for a 10-year-old:** give him a job, like counting the steps down, spotting the marble thrones, or finding the emperor's name. Keep it short (45–60 minutes), then let him run between the stone animals on the Sacred Way.
 
 ##### The options we considered
 
-Mutianyu plus the Ming Tombs is one of Beijing's standard Great Wall day tours, which is why the hotel and most operators sell it. Plenty of families do the Great Wall only, though. The tombs add about **2½ hours**, including roughly an hour of extra driving, to a day that starts at 07:00 in the cold.
+Mutianyu plus the Ming Tombs is one of Beijing's standard Great Wall day tours, which is why the hotel and most operators sell it. Plenty of families do the Great Wall only, though. The tombs add about **2½ hours**, including roughly an hour of extra driving, to a day that starts early in the cold.
 
 **Will the tombs work for a 10-year-old?**
 
@@ -258,7 +275,7 @@ Mutianyu plus the Ming Tombs is one of Beijing's standard Great Wall day tours, 
 |---|---|---|---|
 | **A. Mutianyu only** | Leave ~07:30, Wall and toboggan, lunch near the Wall, drive back | ~14:30 | You want a relaxed afternoon: rest, swim, or the ice rink if it's open. Ask the hotel for a lower price for the shorter day. |
 | **B. Mutianyu + Sacred Way** | As planned, but after lunch drive straight to the Sacred Way (~30–45 min there), skipping Dingling | ~16:00 | You want the best of both for a kid, and to beat the Sunday evening traffic. |
-| **C. Full plan** ✅ *chosen* | Mutianyu, Dingling, then the Sacred Way (the schedule above) | ~17:45 | Your son loves history, or the "underground palace" idea excites him. |
+| **C. Full plan** ✅ *chosen* | Mutianyu, Dingling, then the Sacred Way (the schedule above) | ~17:45–18:00 | Your son loves history, or the "underground palace" idea excites him. |
 
 **Things to weigh up:**
 
@@ -309,6 +326,44 @@ Mutianyu plus the Ming Tombs is one of Beijing's standard Great Wall day tours, 
 | The Kunming Lake rink at the Summer Palace has opened | Swap Shichahai for the Summer Palace rink. The park and lake stay open on Mondays, though the inner sites don't (45–60 min drive). |
 | Everyone is tired | Skip the ice, rest longer at the hotel, and keep the show. |
 | The Lama Temple is fully booked | Swap it for a longer hutong morning, or Jingshan Park (open on Mondays) if you missed it on Saturday. |
+
+#### 🎢 Alternative Monday: Universal Studios Beijing
+
+Universal Studios Beijing, in Tongzhou about 30 km east of the hotel, is **open on Mondays**. That makes it a good fit for the day most city museums close. If you choose it, it replaces the Monday plan above.
+
+| Time | Where | What to do |
+|---|---|---|
+| **08:15** | Grand Hyatt | Car or taxi east to Universal (~45–60 min, about RMB 100–120 by taxi). Alternatively, metro Line 1/Batong line to **Universal Resort** station (~70 min, a few RMB). |
+| 09:00–09:30 | 🎟️ Entrance | Security and bag check. Be at the gates **before opening**. Exits B, C, or D from the metro, then a 7-minute walk. |
+| Opening–11:30 | 🧙 **The Wizarding World of Harry Potter** | Head straight here, as it gets the longest queues. Ride **Harry Potter and the Forbidden Journey**, then **Flight of the Hippogriff** (family coaster). Explore Hogsmeade. |
+| 11:30–12:30 | 🦖 **Jurassic World Isla Nublar** | **Jurassic World Adventure**. |
+| 12:30–13:30 | 🍽️ Lunch | Three Broomsticks (Hogsmeade) or a quick-service restaurant in the park. Eat at 11:30 or 13:30 to dodge the peak. |
+| 13:30–15:30 | 🤖 **Transformers: The Metrobase** | **Transformers: Battle for the AllSpark** (3D ride) and, if he's tall enough and keen, **Decepticoaster** (the park's most intense coaster). |
+| 15:30–17:00 | 🐼 **Kung Fu Panda Land of Awesomeness** · 🍌 **Minion Land** · 🎬 **Hollywood** | **Kung Fu Panda: Journey of the Dragon Warrior**, **Despicable Me Minion Mayhem**, and **Lights, Camera, Action!** Check show times for **WaterWorld** and any winter-holiday parade or shows. |
+| 17:00–18:00 | 🌃 Evening | Hogsmeade lit up after dark, then dinner at **Universal CityWalk** just outside the park. |
+| ~18:30 | 🚐 Back to the hotel | ~45–60 min. Monday evening traffic heading into the city is lighter than outbound. |
+
+**Tickets (book ahead):**
+
+- **Buy a dated 1-day ticket** for Mon, Dec 21 on the official Universal Beijing Resort app, website, WeChat/Alipay mini-program, or Trip.com/Klook. Use **passports**; tickets are in your real name.
+- **Child tickets cover ages 3–11**, so your son gets the discounted child price. Prices vary by date. One 2025 guide lists adults from about RMB 528 (regular) to 748+ (peak), and a child around RMB 396 on regular days.
+- **Universal Express:** a Monday the week before Christmas should be quieter than a weekend, but holiday crowds are hard to predict. **Express Set 5** (priority on five rides) is the best value. Third-party guides put Express at roughly RMB 300–600+ per person, depending on the date.
+- **Rough cost for 3:** admission ~RMB 1,300–2,000, plus Express Set 5 ~RMB 900–1,800, plus food ~RMB 500–800 and transport ~RMB 250. That's **about RMB 2,000–4,800** depending on Express.
+
+**Heights and winter:**
+
+- **Check your son's height against the official rider guide** before you go. Third-party lists give roughly **122 cm** for the Forbidden Journey, **~100 cm** for Jurassic World Adventure, and **~132 cm** for Decepticoaster. Use the [official Guide for Rider Safety and Accessibility](https://www.universalbeijingresort.com/sites/default/files/doc_fds3hjk3_sdf8n3io_120hfio/2022-06/Guide-for-Rider-Safety-and-Accessibility-EN.pdf).
+- **Winter:** the park may adjust hours for selected rides and attractions in cold or windy weather. Outdoor coasters can pause. Many rides are indoor, so dress warmly for queues and walking between areas.
+- **Hours:** sources disagree for December Mondays: roughly 10:00–19:00 or 09:00–21:00, with a "Winter Holiday" season from mid-November to early January. **Check the official park calendar** for Dec 21 and adjust the start time.
+
+**If you pick Universal for Monday, the city plan moves like this:**
+
+| Monday city activity | Where it goes |
+|---|---|
+| Houhai hutong rickshaw + dumpling lunch | **Saturday afternoon**, instead of Beihai Park (Houhai is right next to Beihai) |
+| Chinese acrobatics show | **Saturday or Tuesday evening** |
+| Lama Temple | Drop it, or swap it into Tuesday morning if you shorten the Temple of Heaven |
+| Lake ice (Shichahai) | Saturday afternoon with the hutongs, if the ice is open |
 
 ### Day 4: Tuesday, Dec 22 — Imperial Parks & Lake Ice
 
@@ -402,7 +457,7 @@ This plan depends on precise ticketing, so send these notes to your guide or dri
 4. **Great Wall on Sunday:** Confirm with the team that you're doing the Great Wall and Ming Tombs on **Sunday, Dec 20**, to avoid the Monday tour-group rush. Monday is a city day of places that stay open on Mondays.
 5. **Mutianyu lifts:** Book a one-way cable car up (Tower 14) and a one-way toboggan down (Tower 6). Also check that the cable car's annual December maintenance day doesn't fall on Dec 20; in 2025 it was Dec 13.
 6. **Ice rink status:** Have the agency check around Dec 19–21 whether the Kunming Lake rink has opened for your Tuesday (Dec 22) visit, and line up the indoor-rink Plan B.
-7. **Pickups:** airport pickup on Fri, Dec 18 (give them your flight number). Then from the Grand Hyatt: Day 1 at 07:45 (the guide meets you to walk), Day 2 at **07:00** for the Great Wall, Day 3 at 08:40, Day 4 at 08:25, and Day 5 at **08:00 to PEK Terminal 2** for KE2052.
+7. **Pickups:** airport pickup on Fri, Dec 18 (give them your flight number). Then from the Grand Hyatt: Day 1 at 07:45 (the guide meets you to walk), Day 2 at **08:00** for the Great Wall (hotel tour), Day 3 at 08:40, Day 4 at 08:25, and Day 5 at **08:00 to PEK Terminal 2** for KE2052.
 8. **Monday bookings:** a timed Lama Temple ticket (opens about Dec 14), the Houhai rickshaw and courtyard dumpling lunch, and Chaoyang Theatre acrobatics seats for Monday evening.
 9. **Heated minivan:** Make sure your private vehicle is a spacious, fully heated 7-seater minivan (such as a Buick GL8). That gives you a warm place to leave heavy winter gear while you walk around.
 
@@ -429,7 +484,8 @@ Reviewed in November 2026. **The overall plan makes sense.** Every site falls on
 | Your request: Great Wall on Sunday | You asked to move the Great Wall to Sunday, and the Temple of Heaven and Summer Palace to Tuesday. | Swapped them. Sunday avoids the Monday tour-group rush, and Tuesday gives the Kunming Lake ice two more days to freeze. Forbidden City backup is now Tuesday. |
 | Great Wall day: how much of the Ming Tombs? | Many families only want the Great Wall, and Dingling's bare underground vaults can bore a 10-year-old. | Added three options to discuss on Day 2: A (Mutianyu only, back ~14:30), B (Mutianyu + Sacred Way, back ~16:00, suggested), and C (full plan, back ~17:45). |
 | Meals | The plan had lunches but no dinner suggestions. | Added a "Where to eat" section with nearby restaurants, links, and a meal plan for each day, including Made in China at the hotel. |
-| Great Wall day: decision | The family chose the full day: the Great Wall, the Dingling underground tomb, and the Sacred Way. | Marked option C as decided. Kept the 07:00 start (an 08:00 start returns ~17:45–18:00 with no buffer). A 16:00 return isn't possible with Dingling. |
+| Great Wall day: decision | The family chose the full day: the Great Wall, the Dingling underground tomb, and the Sacred Way. | Marked option C as decided. The hotel's pickup is 08:00, so the schedule now starts at 08:00 and returns ~17:45–18:00 with no buffer. A 16:00 return isn't possible with Dingling. Added the day's cost: about RMB 4,700–4,900 including lifts and lunch. |
+| Monday alternative: Universal Studios Beijing | You asked for a Universal Studios plan for Monday. | Added an alternative Monday: rope drop at Harry Potter, Jurassic, Transformers, Kung Fu Panda, and Minions, then CityWalk dinner. Includes tickets (child price ages 3–11, Express Set 5), costs, height checks, winter notes, and where the Monday city activities move. |
 | Layout | The `•` bullets ran together on GitHub, and the days used different formats. | Every day now has the same layout: at a glance, schedule, winter hours check, tickets & tips, and if plans change. Added a trip overview table and a shared packing list. |
 
 **Still to confirm closer to the date**, since these details change from year to year:
@@ -455,11 +511,13 @@ Reviewed in November 2026. **The overall plan makes sense.** Every site falls on
 - Ming Tombs winter hours: [China Xian Tour – Ming Tombs](https://www.chinaxiantour.com/beijing-attractions/ming-tombs); [Travel China – Ming Tombs](https://www.chinatravel.com/beijing/attraction/ming-tombs)
 - Forbidden City booking rules: [Beijing government – Palace Museum visiting guidelines](https://english.beijing.gov.cn/latest/news/202306/t20230629_3150036.html)
 - Hotel location: [Visit Beijing – Grand Hyatt Beijing](https://r.visitbeijing.com.cn/hotel/278)
+- Payments: [Beijing government – overseas cards accepted by WeChat Pay and Alipay](https://english.beijing.gov.cn/consuminginbeijing/howtobuy/202307/t20230725_3206931.html); [People's Daily – payment guide for overseas visitors](https://en.people.cn/n3/2024/0412/c90000-20156127.html); [Trip.com – how to use Alipay in China](https://www.trip.com/guide/info/how-to-use-alipay.html); [Trip.com – Alipay troubleshooting](https://in.trip.com/guide/info/alipay-not-working-in-china.html); [SCMP – China's mobile-payment overhaul for foreigners](https://www.scmp.com/economy/china-economy/article/3368810/how-chinas-mobile-payment-overhaul-helps-foreigners-spend-money-ahead-apec-meeting)
 - Restaurants: [Robb Report – Grand Hyatt Beijing](https://robbreport.com.sg/grand-hyatt-beijing/); [Fodor's – Made in China](https://www.fodors.com/world/asia/china/beijing/restaurants/reviews/made-in-china-587922); [Trvlogue – Siji Minfu](https://www.trvlogue.com/en/siji-minfu-beijing-peking-duck); [Trvlogue – Juqi](https://www.trvlogue.com/en/beijing-peking-duck-juqi); [China Highlights – best roast duck](https://www.chinahighlights.com/beijing/best-roast-duck.htm); [Travel China With Me – Peking duck restaurants](https://travelchinawith.me/china-travel-blog/peking-duck-restaurants-in-beijing/); [China Travel – best Peking duck restaurants](https://www.chinatravel.com/beijing/best-peking-duck-restaurant); [Trip.com – Beijing duck guide](https://www.trip.com/guide/food/beijing-duck.html)
 - Weekend traffic and crowds: [Travel China With Me – best time to visit Beijing](https://travelchinawith.me/china-destinations/beijing/best-time-to-visit-beijing/); [That's Beijing – expect more traffic](https://www.thatsmags.com/beijing/post/35202/expect-more-traffic-in-these-parts-of-beijing)
 - Monday crowds at Mutianyu: [Trip.com – Mutianyu traveller tips](https://ae.trip.com/moments/poi-mutianyu-great-wall-75609); [Trip.com – Mutianyu moments](https://www.trip.com/t/RpfXhMg4qT2)
 - Lama Temple hours and booking: [Wander in China – Lama Temple](https://www.wanderinchina.com/en/destinations/beijing/lama-temple/); [China Travel – Lama Temple](https://www.chinatravel.com/beijing/attraction/lama-temple); [Visit Beijing – Lama Temple](https://r.visitbeijing.com.cn/attraction/715)
 - KE2052 schedule (PEK T2 ~11:45 → Gimpo ~15:00): [Trip.com – KE2052 status](https://www.trip.com/flights/status-ke2052/); [Avionio – KE2052](https://www.avionio.com/en/flight/ke-2052)
+- Universal Studios Beijing: [Official tickets & offers](https://www.universalbeijingresort.com/en/tickets-offers); [Official getting here](https://www.universalbeijingresort.com/en/ubrbasepage/ruhedaoda); [Official rider safety guide (PDF)](https://www.universalbeijingresort.com/sites/default/files/doc_fds3hjk3_sdf8n3io_120hfio/2022-06/Guide-for-Rider-Safety-and-Accessibility-EN.pdf); [Beijing government – Winter Holiday 2025](https://english.beijing.gov.cn/consuminginbeijing/onlyinbeijing/universalbeijingresort/updatesofuniversalbeijingresort/202511/t20251108_4266170.html); [Trip.com – Universal Studios Beijing tickets](https://www.trip.com/guide/attraction/universal-studios-beijing-tickets.html); [Theme Park Insider – visitors guide](https://themeparkinsider.com/reviews/universal-studios-beijing)
 - Beihai Park winter hours: [Beijing government – Beihai Park](https://english.beijing.gov.cn/specials/parktours/guidevisitors/beihaipark/)
 - Chaoyang Theatre acrobatics: [China Highlights – Chaoyang Acrobatics Theater](https://chinahighlights.com/beijing/attraction/chaoyang-acrobatics-theater.htm); [China Beijing Private Tour – acrobatic show tickets](https://chinabeijingprivatetour.com/tickets/show/beijing-acrobatic-show-ticket-booking.htm)
 - I calculated sunrise and sunset for each date, and estimated distances from the hotel using map coordinates. Road distances are approximate.
